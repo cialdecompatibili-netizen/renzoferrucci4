@@ -1,0 +1,21 @@
+{%- comment -%}
+  BARRA CATEGORIE DEL JOURNAL (stessa logica del negozio: Tutti + una pillola per categoria). Dati: _data/categorie.json.
+  Parametro opzionale: attiva="<nome categoria>" evidenzia la pillola. Link: /categoria/?cat=<nome> (en: /en/categoria/).
+{%- endcomment -%}
+{%- assign bp_lh = '/' -%}{%- if page.lang and page.lang != site.default_lang -%}{%- assign bp_lh = '/' | append: page.lang | append: '/' -%}{%- endif -%}
+{%- assign bp_c = 'blog/' -%}
+<style>
+.bl-pills{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:0 0 1.2rem}
+.bl-pill{display:flex;align-items:center;justify-content:center;text-align:center;font-size:.85rem;padding:8px 10px;line-height:1.2;border:1px solid var(--gc-line,#e6e8ee);border-radius:999px;background:#fff;color:var(--gc-ink,#0e1116);text-decoration:none!important;transition:border-color .2s,background .2s,color .2s}
+.bl-pill:hover,.bl-pill.on{border-color:var(--gc-acc,#8a6d3b);background:var(--gc-acc,#8a6d3b);color:#fff!important}
+@media(max-width:900px){.bl-pills{grid-template-columns:repeat(2,1fr)}}
+</style>
+<nav class="bl-pills" aria-label="Categorie">
+<a class="bl-pill{% unless include.attiva %} on{% endunless %}" href="{{ bp_lh | append: 'blog/' | relative_url }}">{% if page.lang == 'en' %}All{% else %}Tutti{% endif %}</a>
+{%- assign bp_news = site.data.categorie | where: 'nome', 'news' -%}
+{%- assign bp_rest = site.data.categorie | where_exp: 'c', "c.nome != 'news'" | sort_natural: 'nome' -%}
+{%- assign bp_all = bp_news | concat: bp_rest -%}
+{%- for c in bp_all -%}
+<a class="bl-pill{% if include.attiva == c.nome %} on{% endif %}" href="{{ bp_lh | append: bp_c | append: c.nome | append: '/' | relative_url }}">{{ c.nome | replace: '-', ' ' | capitalize }}</a>
+{%- endfor %}
+</nav>

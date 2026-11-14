@@ -1,0 +1,887 @@
+{
+  "_nota": "Catalogo Renzo Ferrucci (collezioni Giove, Venere, Giunone, Nettuno, Vulcano). Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L'id \"categoria\" e' riservato. TRADUZIONI: \"tr\": {\"en\": {...}}; campo mancante = si usa l'italiano.",
+  "categorie": [
+    {
+      "nome": "Uomo",
+      "id": "uomo",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Men"
+        }
+      }
+    },
+    {
+      "nome": "Donna",
+      "id": "donna",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Women"
+        }
+      }
+    },
+    {
+      "nome": "Borse a tracolla in pelle donna",
+      "id": "borse-a-tracolla-in-pelle",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Leather shoulder bags women"
+        }
+      }
+    },
+    {
+      "nome": "Accessori uomo",
+      "id": "accessori-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Accessories men"
+        }
+      }
+    },
+    {
+      "nome": "Portafogli in pelle donna",
+      "id": "portafogli-in-pelle",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Leather Wallets women"
+        }
+      }
+    },
+    {
+      "nome": "Portapassaporti in pelle donna",
+      "id": "portapassaporti-in-pelle",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Leather Passport holders women"
+        }
+      }
+    },
+    {
+      "nome": "Portapassaporti in pelle uomo",
+      "id": "portapassaporti-in-pelle-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Leather Passport holders men"
+        }
+      }
+    },
+    {
+      "nome": "Cinture uomo",
+      "id": "cinture-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Belts men"
+        }
+      }
+    },
+    {
+      "nome": "Zaini in pelle uomo",
+      "id": "zaini-in-pelle-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Leather backpacks men"
+        }
+      }
+    },
+    {
+      "nome": "Borse a tracolla in pelle uomo",
+      "id": "borse-a-tracolla-in-pelle-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Leather shoulder bags men"
+        }
+      }
+    },
+    {
+      "nome": "Borse in pelle donna",
+      "id": "borse-in-pelle",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Leather handbags women"
+        }
+      }
+    }
+  ],
+  "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "venere",
+      "nome": "Trastevere – Abito midi in seta",
+      "categoria": "donna",
+      "prezzo_centesimi": 185000,
+      "descrizione": "Collezione Venere · Seta fluida, scollo morbido, lunghezza midi: l'eleganza dell'amore. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nAbito midi in crêpe di seta, drappeggio sul fianco, scollo a V profondo. Cucito in Italia, perfetto dal giorno alla sera.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
+      "immagine": "assets/images/prodotti/venere.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Venere",
+      "tr": {
+        "en": {
+          "nome": "Trastevere – Silk midi dress",
+          "descrizione": "Venere Collection · Flowing silk, soft neckline, midi length: the elegance of love. Made in Rome.",
+          "descrizione_completa": "Venere Collection.\nMidi dress in silk crêpe, draping at the hip, deep V neckline. Sewn in Italy, perfect from day to evening.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "diana",
+      "nome": "Parioli – Blazer sartoriale in lana fresca",
+      "categoria": "donna",
+      "prezzo_centesimi": 129000,
+      "descrizione": "Collezione Venere · Il blazer della cacciatrice: linea netta, spalla strutturata, lana leggera. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nBlazer monopetto in lana fresca, spalla strutturata, vita segnata. Sartoria italiana per chi sa dove vuole arrivare.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
+      "immagine": "assets/images/prodotti/diana.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Venere",
+      "tr": {
+        "en": {
+          "nome": "Parioli – Tailored fresh wool blazer",
+          "descrizione": "Venere Collection · The huntress's blazer: clean line, structured shoulder, light wool. Made in Rome.",
+          "descrizione_completa": "Venere Collection.\nSingle-breasted blazer in fresh wool, structured shoulder, defined waist. Italian tailoring for those who know where they want to get.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "aurora",
+      "nome": "Borgo – Blusa in seta lavata",
+      "categoria": "donna",
+      "prezzo_centesimi": 52000,
+      "descrizione": "Collezione Venere · I colori dell'alba in una blusa in seta lavata, morbida e luminosa. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nBlusa in seta lavata, bottoni in madreperla, polsi morbidi. Un capo versatile, da portare sotto il blazer o da sola.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
+      "immagine": "assets/images/prodotti/aurora.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Venere",
+      "tr": {
+        "en": {
+          "nome": "Borgo – Washed silk blouse",
+          "descrizione": "Venere Collection · The colours of dawn in a washed silk blouse, soft and luminous. Made in Rome.",
+          "descrizione_completa": "Venere Collection.\nBlouse in washed silk, mother-of-pearl buttons, soft cuffs. A versatile piece, to wear under a blazer or on its own.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "appia",
+      "nome": "Appia – Cappotto con cintura in puro cammello",
+      "categoria": "donna",
+      "prezzo_centesimi": 219000,
+      "descrizione": "Collezione Giunone · Cappotto avvolgente in puro cammello, linea ampia e cintura in tessuto. Made in Rome.",
+      "descrizione_completa": "Collezione Giunone.\nCappotto con cintura in puro cammello, spalla scesa e lunghezza midi. Fodera in seta, bottoni in corno.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.\nComposizione: 100% cammello. Fodera: 100% seta.",
+      "immagine": "assets/images/prodotti/appia.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Giunone",
+      "tr": {
+        "en": {
+          "nome": "Appia – Belted pure camel coat",
+          "descrizione": "Giunone Collection · Enveloping pure camel coat, ample line and fabric belt. Made in Rome.",
+          "descrizione_completa": "Giunone Collection.\nBelted coat in pure camel, dropped shoulder and midi length. Silk lining, horn buttons.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line.\nComposition: 100% camel. Lining: 100% silk."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vesta",
+      "nome": "Gianicolo – Abito lungo in raso di seta",
+      "categoria": "donna",
+      "prezzo_centesimi": 295000,
+      "descrizione": "Collezione Venere · Il fuoco sacro di Roma in un abito lungo: raso di seta, schiena scoperta. Made in Rome.",
+      "descrizione_completa": "Collezione Venere.\nAbito lungo in raso di seta, schiena scoperta, spacco laterale. Per le sere in cui servono luce e carattere.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
+      "immagine": "assets/images/prodotti/vesta.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Venere",
+      "tr": {
+        "en": {
+          "nome": "Gianicolo – Long silk satin gown",
+          "descrizione": "Venere Collection · The sacred fire of Rome in a long gown: silk satin, open back. Made in Rome.",
+          "descrizione_completa": "Venere Collection.\nLong gown in silk satin, open back, side slit. For the evenings that call for light and character.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vulcano",
+      "nome": "Sallustiano – Cintura in cuoio vegetale",
+      "categoria": "accessori-uomo",
+      "prezzo_centesimi": 38000,
+      "descrizione": "Collezione Vulcano · Cuoio vegetale conciato in Toscana, fibbia in ottone fuso. Made in Rome.",
+      "descrizione_completa": "Collezione Vulcano.\nCintura in cuoio conciato al vegetale, fibbia in ottone fuso a mano, cuciture a vista. Migliora con gli anni.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
+      "immagine": "assets/images/prodotti/vulcano.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "Vulcano",
+      "tr": {
+        "en": {
+          "nome": "Sallustiano – Vegetable-tanned leather belt",
+          "descrizione": "Vulcano Collection · Vegetable-tanned leather from Tuscany, cast brass buckle. Made in Rome.",
+          "descrizione_completa": "Vulcano Collection.\nBelt in vegetable-tanned leather, hand-cast brass buckle, visible stitching. It improves with the years.\nCut and sewn in Rome: Roman tailoring meets a contemporary, clean, timeless line."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-tracolla-pelle",
+      "nome": "Borsa a tracolla in pelle",
+      "categoria": "borse-a-tracolla-in-pelle",
+      "prezzo_centesimi": 37000,
+      "descrizione": "Borsa a tracolla in vera pelle bovina a grana naturale, con patta e fermaglio girevole in metallo.",
+      "descrizione_completa": "Borsa a tracolla in vera pelle bovina con grana naturale a ciottoli: morbida, strutturata e resistente ai graffi.\nPatta con fermaglio girevole in metallo.\nDoppi spallacci da spalla.\nInterno foderato in ecopelle, con tasca a bustina e patta interna con chiusura a pressione.\nMisure disponibili (lunghezza × larghezza × altezza): Mini 26 × 9 × 17 cm, Medio 33 × 10 × 20 cm, Grande 39 × 11 × 24 cm. Misure approssimative.\nCura: tenere lontano da acqua e profumi, pulire con un panno asciutto e conservare in un luogo asciutto. Trattandosi di pelle naturale, piccole variazioni di grana e di tonalita' fanno parte del materiale.",
+      "immagine": "assets/images/prodotti/borsa-tracolla-pelle.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "tr": {
+        "en": {
+          "nome": "Leather shoulder bag",
+          "descrizione": "Shoulder bag in genuine bovine leather with natural grain, flap and metal twist lock.",
+          "descrizione_completa": "Shoulder bag in genuine bovine leather with a natural pebbled grain: soft, structured and scratch-resistant.\nFlap with metal twist-lock clasp.\nDouble shoulder straps.\nEco-leather lined interior with a slip pocket and an inner flap with snap closure.\nAvailable sizes (length × width × height): Mini 26 × 9 × 17 cm, Medio 33 × 10 × 20 cm, Grande 39 × 11 × 24 cm. Approximate sizes.\nAvailable sizes (length × width × height): Mini 26 × 9 × 17 cm, Medio 33 × 10 × 20 cm, Grande 39 × 11 × 24 cm. Approximate sizes.\nCare: keep away from water and perfumes, wipe with a dry cloth and store in a dry place. As a natural leather, small variations in grain and tone are part of the material."
+        }
+      },
+      "varianti": {
+        "opzioni": [
+          {
+            "id": "colore",
+            "nome": "Colore",
+            "tr": {
+              "en": "Color"
+            },
+            "valori": [
+              {
+                "id": "nero-argento",
+                "nome": "Nero, Argento",
+                "tr": {
+                  "en": "Black, Silver"
+                }
+              },
+              {
+                "id": "oro-nero",
+                "nome": "Oro nero",
+                "tr": {
+                  "en": "Black, Gold"
+                }
+              },
+              {
+                "id": "borgogna-argento",
+                "nome": "Borgogna, Argento",
+                "tr": {
+                  "en": "Burgundy, Silver"
+                }
+              },
+              {
+                "id": "borgogna-oro",
+                "nome": "Borgogna, Oro",
+                "tr": {
+                  "en": "Burgundy, Gold"
+                }
+              },
+              {
+                "id": "caffe-argento",
+                "nome": "Caffè, Argento",
+                "tr": {
+                  "en": "Coffee, Silver"
+                }
+              }
+            ]
+          },
+          {
+            "id": "misura",
+            "nome": "Misura",
+            "tr": {
+              "en": "Size"
+            },
+            "valori": [
+              {
+                "id": "mini",
+                "nome": "Mini · 26 × 9 × 17 cm",
+                "tr": {
+                  "en": "Mini · 26 × 9 × 17 cm"
+                }
+              },
+              {
+                "id": "medio",
+                "nome": "Medio · 33 × 10 × 20 cm",
+                "tr": {
+                  "en": "Medio · 33 × 10 × 20 cm"
+                }
+              },
+              {
+                "id": "grande",
+                "nome": "Grande · 39 × 11 × 24 cm",
+                "tr": {
+                  "en": "Grande · 39 × 11 × 24 cm"
+                }
+              }
+            ]
+          }
+        ],
+        "combinazioni": [
+          {
+            "id": "nero-argento-mini",
+            "v": [
+              "nero-argento",
+              "mini"
+            ],
+            "p": 37000,
+            "n": "Nero, Argento, Mini · 26 × 9 × 17 cm",
+            "tr": {
+              "en": "Black, Silver, Mini · 26 × 9 × 17 cm"
+            }
+          },
+          {
+            "id": "nero-argento-medio",
+            "v": [
+              "nero-argento",
+              "medio"
+            ],
+            "p": 48000,
+            "n": "Nero, Argento, Medio · 33 × 10 × 20 cm",
+            "tr": {
+              "en": "Black, Silver, Medio · 33 × 10 × 20 cm"
+            }
+          },
+          {
+            "id": "nero-argento-grande",
+            "v": [
+              "nero-argento",
+              "grande"
+            ],
+            "p": 60000,
+            "n": "Nero, Argento, Grande · 39 × 11 × 24 cm",
+            "tr": {
+              "en": "Black, Silver, Grande · 39 × 11 × 24 cm"
+            }
+          },
+          {
+            "id": "oro-nero-mini",
+            "v": [
+              "oro-nero",
+              "mini"
+            ],
+            "p": 37000,
+            "n": "Oro nero, Mini · 26 × 9 × 17 cm",
+            "tr": {
+              "en": "Black, Gold, Mini · 26 × 9 × 17 cm"
+            }
+          },
+          {
+            "id": "oro-nero-medio",
+            "v": [
+              "oro-nero",
+              "medio"
+            ],
+            "p": 48000,
+            "n": "Oro nero, Medio · 33 × 10 × 20 cm",
+            "tr": {
+              "en": "Black, Gold, Medio · 33 × 10 × 20 cm"
+            }
+          },
+          {
+            "id": "oro-nero-grande",
+            "v": [
+              "oro-nero",
+              "grande"
+            ],
+            "p": 60000,
+            "n": "Oro nero, Grande · 39 × 11 × 24 cm",
+            "tr": {
+              "en": "Black, Gold, Grande · 39 × 11 × 24 cm"
+            }
+          },
+          {
+            "id": "borgogna-argento-mini",
+            "v": [
+              "borgogna-argento",
+              "mini"
+            ],
+            "p": 37000,
+            "n": "Borgogna, Argento, Mini · 26 × 9 × 17 cm",
+            "tr": {
+              "en": "Burgundy, Silver, Mini · 26 × 9 × 17 cm"
+            }
+          },
+          {
+            "id": "borgogna-argento-medio",
+            "v": [
+              "borgogna-argento",
+              "medio"
+            ],
+            "p": 48000,
+            "n": "Borgogna, Argento, Medio · 33 × 10 × 20 cm",
+            "tr": {
+              "en": "Burgundy, Silver, Medio · 33 × 10 × 20 cm"
+            }
+          },
+          {
+            "id": "borgogna-argento-grande",
+            "v": [
+              "borgogna-argento",
+              "grande"
+            ],
+            "p": 60000,
+            "n": "Borgogna, Argento, Grande · 39 × 11 × 24 cm",
+            "tr": {
+              "en": "Burgundy, Silver, Grande · 39 × 11 × 24 cm"
+            }
+          },
+          {
+            "id": "borgogna-oro-mini",
+            "v": [
+              "borgogna-oro",
+              "mini"
+            ],
+            "p": 37000,
+            "n": "Borgogna, Oro, Mini · 26 × 9 × 17 cm",
+            "tr": {
+              "en": "Burgundy, Gold, Mini · 26 × 9 × 17 cm"
+            }
+          },
+          {
+            "id": "borgogna-oro-medio",
+            "v": [
+              "borgogna-oro",
+              "medio"
+            ],
+            "p": 48000,
+            "n": "Borgogna, Oro, Medio · 33 × 10 × 20 cm",
+            "tr": {
+              "en": "Burgundy, Gold, Medio · 33 × 10 × 20 cm"
+            }
+          },
+          {
+            "id": "borgogna-oro-grande",
+            "v": [
+              "borgogna-oro",
+              "grande"
+            ],
+            "p": 60000,
+            "n": "Borgogna, Oro, Grande · 39 × 11 × 24 cm",
+            "tr": {
+              "en": "Burgundy, Gold, Grande · 39 × 11 × 24 cm"
+            }
+          },
+          {
+            "id": "caffe-argento-mini",
+            "v": [
+              "caffe-argento",
+              "mini"
+            ],
+            "p": 37000,
+            "n": "Caffè, Argento, Mini · 26 × 9 × 17 cm",
+            "tr": {
+              "en": "Coffee, Silver, Mini · 26 × 9 × 17 cm"
+            }
+          },
+          {
+            "id": "caffe-argento-medio",
+            "v": [
+              "caffe-argento",
+              "medio"
+            ],
+            "p": 48000,
+            "n": "Caffè, Argento, Medio · 33 × 10 × 20 cm",
+            "tr": {
+              "en": "Coffee, Silver, Medio · 33 × 10 × 20 cm"
+            }
+          },
+          {
+            "id": "caffe-argento-grande",
+            "v": [
+              "caffe-argento",
+              "grande"
+            ],
+            "p": 60000,
+            "n": "Caffè, Argento, Grande · 39 × 11 × 24 cm",
+            "tr": {
+              "en": "Coffee, Silver, Grande · 39 × 11 × 24 cm"
+            }
+          }
+        ]
+      },
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4577740617/borsa-shopper-grande-in-vera-pelle-donna",
+        "acquisto": 121.01
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "portapassaporto-in-pelle",
+      "nome": "Portapassaporto in pelle",
+      "categoria": "portapassaporti-in-pelle",
+      "prezzo_centesimi": 13000,
+      "descrizione": "Vera pelle di alta qualità: realizzata in pelle spessa e di alta qualità che invecchia magnificamente nel tempo, sviluppando una ricca patina unica per ogni.",
+      "descrizione_completa": "Vera pelle di alta qualità: realizzata in pelle spessa e di alta qualità che invecchia magnificamente nel tempo, sviluppando una ricca patina unica per ogni pezzo.\nCompatto e ideale per i viaggi: con dimensioni di circa 14 x 21 cm da aperto, può contenere tutto il necessario per il viaggio senza risultare ingombrante o poco pratico.\nEccellenza artigianale: ogni portapassaporto è cucito a mano con cura per garantire durata e una finitura di alta qualità.\nScomparto per passaporto con spazio per carte d'imbarco/biglietti aerei.\n2 scomparti per carte + 1 scomparto per contanti o ricevute\nDimensioni compatte: 14 x 21 cm (aperto)",
+      "immagine": "assets/images/prodotti/portapassaporto-in-pelle.webp?v=4",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "categoria2": "portapassaporti-in-pelle-uomo",
+      "fonte": {
+        "url": "https://www.etsy.com/listing/1863311721",
+        "acquisto": 42.78
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "portafoglio-in-pelle",
+      "nome": "Portafoglio in pelle",
+      "categoria": "portafogli-in-pelle",
+      "prezzo_centesimi": 21000,
+      "descrizione": "Vera pelle, finitura in morbida pelle, protezione RFID.",
+      "descrizione_completa": "Vera pelle\nFinitura in morbida pelle\nProtezione RFID\nDesign a tre ante con cerniera\n8 slot per carte\n1 finestra ID",
+      "immagine": "assets/images/prodotti/portafoglio-in-pelle.webp?v=3",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/1655441141/portafoglio-da-donna-in-morbida-pelle",
+        "acquisto": 68.77
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "cintura-in-pelle",
+      "nome": "Cintura in pelle",
+      "categoria": "cinture-uomo",
+      "prezzo_centesimi": 16000,
+      "descrizione": "1,6'' (40 mm) di larghezza, 100% Pelle italiana pieno fiore, fibbia removibile (fibbia in acciaio inossidabile inclusa).",
+      "descrizione_completa": "1,6'' (40 mm) di larghezza\n100% Pelle italiana pieno fiore\nFibbia removibile (fibbia in acciaio inossidabile inclusa)\nGaranzia a vita\nUtilizziamo solo pelle pieno fiore di altissima qualità, prodotta eticamente.",
+      "immagine": "assets/images/prodotti/cintura-in-pelle.webp?v=3",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/829107628/cintura-in-pelle-classica-marrone-casual",
+        "acquisto": 53.3
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "zaino-capitolino-in-pelle",
+      "nome": "Zaino Capitolino in pelle",
+      "categoria": "zaini-in-pelle-uomo",
+      "prezzo_centesimi": 48000,
+      "descrizione": "Pelle pieno fiore, all'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare., tracolla regolabile.",
+      "descrizione_completa": "Pelle pieno fiore\nAll'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare.\nTracolla regolabile\nPuò contenere un laptop da 16\".\n",
+      "immagine": "assets/images/prodotti/zaino-capitolino-in-pelle.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/1808222415/zaino-per-laptop-da-16-pollici-in-pelle",
+        "acquisto": 158.52
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-a-tracolla-vittoria-in-pelle",
+      "nome": "Borsa a tracolla Vittoria in pelle",
+      "categoria": "borse-a-tracolla-in-pelle",
+      "prezzo_centesimi": 49000,
+      "descrizione": "Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.",
+      "descrizione_completa": "Ci sono oggetti che non si possiedono: si abitano. Poche linee, un pellame scelto con cura, cuciture che resistono al tempo: il resto lo scrive l'uso quotidiano. Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.\n\nCaratteristiche e misure\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 37–39 × 13 × 20 cm, Grande 44 × 14 × 23 cm. Misure approssimative.",
+      "immagine": "assets/images/prodotti/borsa-a-tracolla-vittoria-in-pelle.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4351353467/disponibile-borsa-a-tracolla-mila-retro",
+        "acquisto": 160.25,
+        "foto": "lusso"
+      },
+      "varianti": {
+        "opzioni": [
+          {
+            "id": "misura",
+            "nome": "Misura",
+            "tr": {
+              "en": "Size"
+            },
+            "valori": [
+              {
+                "id": "grande",
+                "nome": "Grande · 44 × 14 × 23 cm",
+                "tr": {
+                  "en": "Grande · 44 × 14 × 23 cm"
+                }
+              },
+              {
+                "id": "piccola",
+                "nome": "Piccola · 37–39 × 13 × 20 cm",
+                "tr": {
+                  "en": "Piccola · 37–39 × 13 × 20 cm"
+                }
+              },
+              {
+                "id": "extra-grande",
+                "nome": "Extra grande",
+                "tr": {
+                  "en": "Extra grande"
+                }
+              }
+            ]
+          }
+        ],
+        "combinazioni": [
+          {
+            "id": "grande",
+            "v": [
+              "grande"
+            ],
+            "p": 55000,
+            "n": "Grande · 44 × 14 × 23 cm",
+            "tr": {
+              "en": "Grande · 44 × 14 × 23 cm"
+            }
+          },
+          {
+            "id": "piccola",
+            "v": [
+              "piccola"
+            ],
+            "p": 49000,
+            "n": "Piccola · 37–39 × 13 × 20 cm",
+            "tr": {
+              "en": "Piccola · 37–39 × 13 × 20 cm"
+            }
+          },
+          {
+            "id": "extra-grande",
+            "v": [
+              "extra-grande"
+            ],
+            "p": 70000,
+            "n": "Extra grande",
+            "tr": {
+              "en": "Extra grande"
+            }
+          }
+        ]
+      },
+      "tr": {
+        "en": {}
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-hobo-conciata-al-vegetale-aventino-in-pelle",
+      "nome": "Borsa hobo conciata al vegetale Aventino in pelle",
+      "categoria": "borse-a-tracolla-in-pelle-uomo",
+      "prezzo_centesimi": 43000,
+      "descrizione": "Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.",
+      "descrizione_completa": "La pelle migliore non ha fretta. Come fanno i grandi atelier europei, che hanno fatto della pelle un linguaggio, scegliamo un solo pellame e lo lasciamo parlare: grana viva, profumo di concia, tagli netti, cuciture pazienti. Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.\n\nCaratteristiche e misure\nCaratteristiche di design\nDimensioni e lunghezza del cinturino\nOgni borsa è realizzata a mano e potrebbe presentare lievi variazioni nella grana e nella consistenza della pelle: questa è la bellezza dei materiali naturali.\nPoiché le borse vengono realizzate su ordinazione, non si accettano resi, salvo in caso di problemi di qualità.*\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 24,5 × 11,5 × 19 cm, Grande 27,5 × 11,5 × 24 cm. Misure approssimative.",
+      "immagine": "assets/images/prodotti/borsa-hobo-conciata-al-vegetale-aventino-in-pelle.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4347277822/borsa-hobo-in-pelle-conciata-al-vegetale",
+        "acquisto": 140.24,
+        "foto": "lusso"
+      },
+      "varianti": {
+        "opzioni": [
+          {
+            "id": "misura",
+            "nome": "Misura",
+            "tr": {
+              "en": "Size"
+            },
+            "valori": [
+              {
+                "id": "piccola",
+                "nome": "Piccola · 24,5 × 11,5 × 19 cm",
+                "tr": {
+                  "en": "Piccola · 24,5 × 11,5 × 19 cm"
+                }
+              },
+              {
+                "id": "grande",
+                "nome": "Grande · 27,5 × 11,5 × 24 cm",
+                "tr": {
+                  "en": "Grande · 27,5 × 11,5 × 24 cm"
+                }
+              }
+            ]
+          }
+        ],
+        "combinazioni": [
+          {
+            "id": "piccola",
+            "v": [
+              "piccola"
+            ],
+            "p": 43000,
+            "n": "Piccola · 24,5 × 11,5 × 19 cm",
+            "tr": {
+              "en": "Piccola · 24,5 × 11,5 × 19 cm"
+            }
+          },
+          {
+            "id": "grande",
+            "v": [
+              "grande"
+            ],
+            "p": 49000,
+            "n": "Grande · 27,5 × 11,5 × 24 cm",
+            "tr": {
+              "en": "Grande · 27,5 × 11,5 × 24 cm"
+            }
+          }
+        ]
+      },
+      "tr": {
+        "en": {}
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-cassia-in-pelle",
+      "nome": "Borsa Cassia in pelle",
+      "categoria": "borse-a-tracolla-in-pelle",
+      "prezzo_centesimi": 31000,
+      "descrizione": "Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.",
+      "descrizione_completa": "Il lusso vero è silenzioso. Segni, lucidature e piccole imperfezioni diventano carattere: un oggetto pensato per migliorare con gli anni, non per inseguire la moda. Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.\n\nCaratteristiche e misure\nAltezza (maniglia esclusa): 34 cm\nProfondità: 14 cm\nLarghezza: 39 cm",
+      "immagine": "assets/images/prodotti/borsa-cassia-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/294947823",
+        "acquisto": 100.88,
+        "foto": "lusso"
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-quirinale-in-pelle",
+      "nome": "Borsa Quirinale in pelle",
+      "categoria": "borse-in-pelle",
+      "prezzo_centesimi": 44000,
+      "descrizione": "Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.",
+      "descrizione_completa": "La bellezza nasce dalla misura. Nei laboratori dove la pelletteria è una tradizione tramandata, ogni pezzo nasce da un gesto lento: scegliere il pellame, tagliarlo, cucirlo con pazienza. Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.\nMisure disponibili (lunghezza × larghezza × altezza): Standard + tracolla 26,7 × 7,6 × 20,3 cm, Standard + tracolla e spalla 26,7 × 7,6 × 20,3 cm, Grande + tracolla 31,8 × 10,2 × 22,9 cm, Grande + tracolla e spalla 31,8 × 10,2 × 22,9 cm. Misure approssimative.",
+      "immagine": "assets/images/prodotti/borsa-quirinale-in-pelle.webp?v=2",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/1803747590/borsa-da-cowgirl-in-pelle-marrone-borsa",
+        "acquisto": 143.77,
+        "foto": "lusso"
+      },
+      "varianti": {
+        "opzioni": [
+          {
+            "id": "misura",
+            "nome": "Misura",
+            "tr": {
+              "en": "Size"
+            },
+            "valori": [
+              {
+                "id": "standard-tracolla",
+                "nome": "Standard + tracolla · 26,7 × 7,6 × 20,3 cm",
+                "tr": {
+                  "en": "Standard + tracolla · 26,7 × 7,6 × 20,3 cm"
+                }
+              },
+              {
+                "id": "standard-tracolla-e-spalla",
+                "nome": "Standard + tracolla e spalla · 26,7 × 7,6 × 20,3 cm",
+                "tr": {
+                  "en": "Standard + tracolla e spalla · 26,7 × 7,6 × 20,3 cm"
+                }
+              },
+              {
+                "id": "grande-tracolla",
+                "nome": "Grande + tracolla · 31,8 × 10,2 × 22,9 cm",
+                "tr": {
+                  "en": "Grande + tracolla · 31,8 × 10,2 × 22,9 cm"
+                }
+              },
+              {
+                "id": "grande-tracolla-e-spalla",
+                "nome": "Grande + tracolla e spalla · 31,8 × 10,2 × 22,9 cm",
+                "tr": {
+                  "en": "Grande + tracolla e spalla · 31,8 × 10,2 × 22,9 cm"
+                }
+              }
+            ]
+          }
+        ],
+        "combinazioni": [
+          {
+            "id": "standard-tracolla",
+            "v": [
+              "standard-tracolla"
+            ],
+            "p": 44000,
+            "n": "Standard + tracolla · 26,7 × 7,6 × 20,3 cm",
+            "tr": {
+              "en": "Standard + tracolla · 26,7 × 7,6 × 20,3 cm"
+            }
+          },
+          {
+            "id": "standard-tracolla-e-spalla",
+            "v": [
+              "standard-tracolla-e-spalla"
+            ],
+            "p": 55000,
+            "n": "Standard + tracolla e spalla · 26,7 × 7,6 × 20,3 cm",
+            "tr": {
+              "en": "Standard + tracolla e spalla · 26,7 × 7,6 × 20,3 cm"
+            }
+          },
+          {
+            "id": "grande-tracolla",
+            "v": [
+              "grande-tracolla"
+            ],
+            "p": 55000,
+            "n": "Grande + tracolla · 31,8 × 10,2 × 22,9 cm",
+            "tr": {
+              "en": "Grande + tracolla · 31,8 × 10,2 × 22,9 cm"
+            }
+          },
+          {
+            "id": "grande-tracolla-e-spalla",
+            "v": [
+              "grande-tracolla-e-spalla"
+            ],
+            "p": 47000,
+            "n": "Grande + tracolla e spalla · 31,8 × 10,2 × 22,9 cm",
+            "tr": {
+              "en": "Grande + tracolla e spalla · 31,8 × 10,2 × 22,9 cm"
+            }
+          }
+        ]
+      },
+      "tr": {
+        "en": {}
+      }
+    }
+  ]
+}

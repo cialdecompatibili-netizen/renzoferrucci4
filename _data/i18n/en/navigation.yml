@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /en/
+  - title: "Shop"
+    url: /en/shop/
+  - title: "Journal"
+    url: /en/blog/
+  - title: "About us"
+    url: /en/about-us/
+  - title: "Contact"
+    url: /en/contact/
