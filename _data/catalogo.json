@@ -163,72 +163,6 @@
       }
     },
     {
-      "nome": "Foulard e sciarpe donna",
-      "id": "foulard-e-sciarpe-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Scarves and shawls women"
-        }
-      }
-    },
-    {
-      "nome": "Bigiotteria donna",
-      "id": "bigiotteria-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Fashion jewellery women"
-        }
-      }
-    },
-    {
-      "nome": "Cinture donna",
-      "id": "cinture-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Belts women"
-        }
-      }
-    },
-    {
-      "nome": "Cappelli e guanti donna",
-      "id": "cappelli-e-guanti-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Hats and gloves women"
-        }
-      }
-    },
-    {
-      "nome": "Occhiali donna",
-      "id": "occhiali-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Eyewear women"
-        }
-      }
-    },
-    {
-      "nome": "Viaggio donna",
-      "id": "viaggio-donna",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Travel women"
-        }
-      }
-    },
-    {
       "nome": "Accessori donna",
       "id": "accessori-donna",
       "icona": "",
@@ -273,50 +207,6 @@
       }
     },
     {
-      "nome": "Cravatte e sciarpe uomo",
-      "id": "cravatte-e-sciarpe-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Ties and scarves men"
-        }
-      }
-    },
-    {
-      "nome": "Cappelli e guanti uomo",
-      "id": "cappelli-e-guanti-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Hats and gloves men"
-        }
-      }
-    },
-    {
-      "nome": "Occhiali uomo",
-      "id": "occhiali-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Eyewear men"
-        }
-      }
-    },
-    {
-      "nome": "Viaggio uomo",
-      "id": "viaggio-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Travel men"
-        }
-      }
-    },
-    {
       "nome": "Tessili",
       "id": "tessili-casa",
       "icona": "",
@@ -350,28 +240,6 @@
       }
     },
     {
-      "nome": "Accessori in pelle per la casa",
-      "id": "accessori-in-pelle-casa",
-      "icona": "",
-      "genitore": "casa",
-      "tr": {
-        "en": {
-          "nome": "Leather home accessories"
-        }
-      }
-    },
-    {
-      "nome": "Accessori per animali",
-      "id": "animali-casa",
-      "icona": "",
-      "genitore": "casa",
-      "tr": {
-        "en": {
-          "nome": "Pet accessories"
-        }
-      }
-    },
-    {
       "nome": "Regali per lei",
       "id": "regali-per-lei",
       "icona": "",
@@ -390,17 +258,6 @@
       "tr": {
         "en": {
           "nome": "Gifts for him"
-        }
-      }
-    },
-    {
-      "nome": "Regali bambini e nascite",
-      "id": "regali-bambini",
-      "icona": "",
-      "genitore": "regali",
-      "tr": {
-        "en": {
-          "nome": "Gifts for kids and newborns"
         }
       }
     },
