@@ -398,3 +398,5 @@ Testo e azioni hanno il loro padding. Per ingrandire/ridurre: cambia la prima co
   #negozio .nz-riga .nz-icona { min-height: 0; aspect-ratio: 16 / 10; }
   #negozio .nz-riga .nz-testo { padding: .8rem 1rem .2rem; }
 }
+/* Riga singola tra reparti e sottocategorie (tutte le pagine categoria) */
+#negozio .nz-pills.nz-sub { border-top: 1px solid var(--nz-bordo); padding-top: .9rem; margin-top: .25rem; }
