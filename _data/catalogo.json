@@ -119,6 +119,301 @@
           "nome": "Leather handbags women"
         }
       }
+    },
+    {
+      "nome": "Regali",
+      "id": "regali",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Gifts"
+        }
+      }
+    },
+    {
+      "nome": "Casa",
+      "id": "casa",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Home"
+        }
+      }
+    },
+    {
+      "nome": "Scarpe donna",
+      "id": "scarpe-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Shoes women"
+        }
+      }
+    },
+    {
+      "nome": "Abbigliamento donna",
+      "id": "abbigliamento-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Clothing women"
+        }
+      }
+    },
+    {
+      "nome": "Foulard e sciarpe donna",
+      "id": "foulard-e-sciarpe-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Scarves and shawls women"
+        }
+      }
+    },
+    {
+      "nome": "Bigiotteria donna",
+      "id": "bigiotteria-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Fashion jewellery women"
+        }
+      }
+    },
+    {
+      "nome": "Cinture donna",
+      "id": "cinture-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Belts women"
+        }
+      }
+    },
+    {
+      "nome": "Cappelli e guanti donna",
+      "id": "cappelli-e-guanti-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Hats and gloves women"
+        }
+      }
+    },
+    {
+      "nome": "Occhiali donna",
+      "id": "occhiali-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Eyewear women"
+        }
+      }
+    },
+    {
+      "nome": "Viaggio donna",
+      "id": "viaggio-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Travel women"
+        }
+      }
+    },
+    {
+      "nome": "Accessori donna",
+      "id": "accessori-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Accessories women"
+        }
+      }
+    },
+    {
+      "nome": "Scarpe uomo",
+      "id": "scarpe-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Shoes men"
+        }
+      }
+    },
+    {
+      "nome": "Abbigliamento uomo",
+      "id": "abbigliamento-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Clothing men"
+        }
+      }
+    },
+    {
+      "nome": "Portafogli uomo",
+      "id": "portafogli-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Wallets men"
+        }
+      }
+    },
+    {
+      "nome": "Cravatte e sciarpe uomo",
+      "id": "cravatte-e-sciarpe-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Ties and scarves men"
+        }
+      }
+    },
+    {
+      "nome": "Cappelli e guanti uomo",
+      "id": "cappelli-e-guanti-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Hats and gloves men"
+        }
+      }
+    },
+    {
+      "nome": "Occhiali uomo",
+      "id": "occhiali-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Eyewear men"
+        }
+      }
+    },
+    {
+      "nome": "Viaggio uomo",
+      "id": "viaggio-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Travel men"
+        }
+      }
+    },
+    {
+      "nome": "Tessili",
+      "id": "tessili-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Textiles"
+        }
+      }
+    },
+    {
+      "nome": "Decor",
+      "id": "decor-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Decor"
+        }
+      }
+    },
+    {
+      "nome": "Candele",
+      "id": "candele-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Candles"
+        }
+      }
+    },
+    {
+      "nome": "Accessori in pelle per la casa",
+      "id": "accessori-in-pelle-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Leather home accessories"
+        }
+      }
+    },
+    {
+      "nome": "Accessori per animali",
+      "id": "animali-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Pet accessories"
+        }
+      }
+    },
+    {
+      "nome": "Regali per lei",
+      "id": "regali-per-lei",
+      "icona": "",
+      "genitore": "regali",
+      "tr": {
+        "en": {
+          "nome": "Gifts for her"
+        }
+      }
+    },
+    {
+      "nome": "Regali per lui",
+      "id": "regali-per-lui",
+      "icona": "",
+      "genitore": "regali",
+      "tr": {
+        "en": {
+          "nome": "Gifts for him"
+        }
+      }
+    },
+    {
+      "nome": "Regali bambini e nascite",
+      "id": "regali-bambini",
+      "icona": "",
+      "genitore": "regali",
+      "tr": {
+        "en": {
+          "nome": "Gifts for kids and newborns"
+        }
+      }
+    },
+    {
+      "nome": "Personalizzazione",
+      "id": "regali-personalizzati",
+      "icona": "",
+      "genitore": "regali",
+      "tr": {
+        "en": {
+          "nome": "Personalisation"
+        }
+      }
     }
   ],
   "prodotti": [
