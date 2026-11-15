@@ -88,7 +88,8 @@
             {%- comment -%} Tendina con piu' di 8 voci = LARGA su 2 colonne (niente scroll lungo). Soglia: cambia il numero 8. {%- endcomment -%}
             {%- assign wide = false -%}
             {%- if kids.size > 8 -%}{%- assign wide = true -%}{%- endif -%}
-            {%- assign duo = false -%}{%- if kids.size >= 6 and kids.size <= 8 -%}{%- assign duo = true -%}{%- endif -%}{%- if item.title == 'Journal' -%}{%- assign duo = true -%}{%- endif -%}
+            {%- comment -%} 2 COLONNE OBBLIGATE in TUTTE le tendine: le larghe (>8 voci) hanno gia' columns:2, tutte le altre (Shop incluso) usano --duo (2 colonne). Per tornare a una colonna sotto le 6 voci rimetti la condizione kids.size >= 6. {%- endcomment -%}
+            {%- assign duo = true -%}{%- if wide -%}{%- assign duo = false -%}{%- endif -%}
             {%- capture dd_html -%}
               {%- if kids -%}
                 {%- for k in kids -%}
