@@ -1088,6 +1088,24 @@
       "tr": {
         "en": {}
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "portafoglio-pieno-fiore-tiburtina-in-pelle",
+      "nome": "Portafoglio pieno fiore Tiburtina in pelle",
+      "categoria": "portafogli-uomo",
+      "prezzo_centesimi": 25000,
+      "descrizione": "Poche carte, pochi gesti, nessuna fretta: un portafoglio che mette ordine nelle tasche e carattere nella giornata.",
+      "descrizione_completa": "Una buona pelle si riconosce dal profumo prima ancora che dallo sguardo. Si ammorbidisce con l'uso, si scurisce alla luce, prende la forma di chi la porta: è la lezione che le grandi maison europee hanno trasformato in un mestiere. Poche carte, pochi gesti, nessuna fretta: un portafoglio che mette ordine nelle tasche e carattere nella giornata.\n\nCaratteristiche e misure\nMarrone scuro con filo giallo dorato\nMarrone scuro con filo marrone scuro\nMarrone scuro con filo rosso\nNero con filo nero\nNero con filo rosso\nNero con filo bianco\nMisure: 4,6 x 3,25 x 0,63 pollici",
+      "immagine": "assets/images/prodotti/portafoglio-pieno-fiore-tiburtina-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/1586853676/portafoglio-in-pelle-pieno-fiore-fatto-a",
+        "acquisto": 80.99,
+        "foto": "lusso"
+      }
     }
   ]
 }
