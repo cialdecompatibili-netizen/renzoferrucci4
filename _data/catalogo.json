@@ -1106,6 +1106,24 @@
         "acquisto": 80.99,
         "foto": "lusso"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "scarpe-scuro-iride-in-pelle",
+      "nome": "Scarpe scuro Iride in pelle",
+      "categoria": "scarpe-uomo",
+      "prezzo_centesimi": 42000,
+      "descrizione": "Pensato per durare e per piacere sempre di più con l'uso: l'essenziale, ma fatto come si faceva una volta.",
+      "descrizione_completa": "Certi oggetti nascono per essere usati, non esposti. Come fanno i grandi atelier europei, che hanno fatto della pelle un linguaggio, scegliamo un solo pellame e lo lasciamo parlare: grana viva, profumo di concia, tagli netti, cuciture pazienti. Pensato per durare e per piacere sempre di più con l'uso: l'essenziale, ma fatto come si faceva una volta.\n\nCaratteristiche e misure\nPelle pieno fiore - 100% conforme alle normative dell'industria alimentare\nPelle conciata al vegetale: pelle totalmente naturale senza sostanze chimiche\nRivetto in rame puro: aiuta a trasferire l'energia naturale dalla terra al tuo corpo\nContattaci per la vendita all'ingrosso\nAccettiamo resi e cambi entro 14 giorni\nPer gli USA, i cambi e i resi devono essere spediti al nostro magazzino negli USA",
+      "immagine": "assets/images/prodotti/scarpe-scuro-iride-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4465842928/scarpe-oxford-in-pelle-marrone-scuro",
+        "acquisto": 138.27,
+        "foto": "lusso"
+      }
     }
   ]
 }
