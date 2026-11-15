@@ -36,10 +36,16 @@ Negozio:
   - title: "Tutti i prodotti"
     url: /negozio/
   - divider: true
-  - title: "Uomo"
-    url: /negozio/categoria/uomo/
   - title: "Donna"
     url: /negozio/categoria/donna/
+  - title: "Uomo"
+    url: /negozio/categoria/uomo/
+  - title: "Fragranze"
+    url: /negozio/categoria/fragranze/
+  - title: "Casa"
+    url: /negozio/categoria/casa/
+  - title: "Regali"
+    url: /negozio/categoria/regali/
 
 Journal:
   - title: "Stilisti"

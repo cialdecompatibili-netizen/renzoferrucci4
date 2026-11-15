@@ -2,16 +2,6 @@
   "_nota": "Catalogo Renzo Ferrucci (collezioni Giove, Venere, Giunone, Nettuno, Vulcano). Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L'id \"categoria\" e' riservato. TRADUZIONI: \"tr\": {\"en\": {...}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Uomo",
-      "id": "uomo",
-      "icona": "",
-      "tr": {
-        "en": {
-          "nome": "Men"
-        }
-      }
-    },
-    {
       "nome": "Donna",
       "id": "donna",
       "icona": "",
@@ -22,121 +12,13 @@
       }
     },
     {
-      "nome": "Borse a tracolla in pelle donna",
-      "id": "borse-a-tracolla-in-pelle",
+      "nome": "Borse donna",
+      "id": "borse-donna",
       "icona": "",
       "genitore": "donna",
       "tr": {
         "en": {
-          "nome": "Leather shoulder bags women"
-        }
-      }
-    },
-    {
-      "nome": "Accessori uomo",
-      "id": "accessori-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Accessories men"
-        }
-      }
-    },
-    {
-      "nome": "Portafogli in pelle donna",
-      "id": "portafogli-in-pelle",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Leather Wallets women"
-        }
-      }
-    },
-    {
-      "nome": "Portapassaporti in pelle donna",
-      "id": "portapassaporti-in-pelle",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Leather Passport holders women"
-        }
-      }
-    },
-    {
-      "nome": "Portapassaporti in pelle uomo",
-      "id": "portapassaporti-in-pelle-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Leather Passport holders men"
-        }
-      }
-    },
-    {
-      "nome": "Cinture uomo",
-      "id": "cinture-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Belts men"
-        }
-      }
-    },
-    {
-      "nome": "Zaini in pelle uomo",
-      "id": "zaini-in-pelle-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Leather backpacks men"
-        }
-      }
-    },
-    {
-      "nome": "Borse a tracolla in pelle uomo",
-      "id": "borse-a-tracolla-in-pelle-uomo",
-      "icona": "",
-      "genitore": "uomo",
-      "tr": {
-        "en": {
-          "nome": "Leather shoulder bags men"
-        }
-      }
-    },
-    {
-      "nome": "Borse in pelle donna",
-      "id": "borse-in-pelle",
-      "icona": "",
-      "genitore": "donna",
-      "tr": {
-        "en": {
-          "nome": "Leather handbags women"
-        }
-      }
-    },
-    {
-      "nome": "Regali",
-      "id": "regali",
-      "icona": "",
-      "tr": {
-        "en": {
-          "nome": "Gifts"
-        }
-      }
-    },
-    {
-      "nome": "Casa",
-      "id": "casa",
-      "icona": "",
-      "tr": {
-        "en": {
-          "nome": "Home"
+          "nome": "Bags women"
         }
       }
     },
@@ -148,6 +30,17 @@
       "tr": {
         "en": {
           "nome": "Shoes women"
+        }
+      }
+    },
+    {
+      "nome": "Portafogli donna",
+      "id": "portafogli-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Wallets women"
         }
       }
     },
@@ -174,6 +67,49 @@
       }
     },
     {
+      "nome": "Occhiali donna",
+      "id": "occhiali-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Eyewear women"
+        }
+      }
+    },
+    {
+      "nome": "Viaggio donna",
+      "id": "viaggio-donna",
+      "icona": "",
+      "genitore": "donna",
+      "tr": {
+        "en": {
+          "nome": "Travel women"
+        }
+      }
+    },
+    {
+      "nome": "Uomo",
+      "id": "uomo",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Men"
+        }
+      }
+    },
+    {
+      "nome": "Borse uomo",
+      "id": "borse-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Bags men"
+        }
+      }
+    },
+    {
       "nome": "Scarpe uomo",
       "id": "scarpe-uomo",
       "icona": "",
@@ -181,6 +117,17 @@
       "tr": {
         "en": {
           "nome": "Shoes men"
+        }
+      }
+    },
+    {
+      "nome": "Portafogli uomo",
+      "id": "portafogli-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Wallets men"
         }
       }
     },
@@ -196,13 +143,88 @@
       }
     },
     {
-      "nome": "Portafogli uomo",
-      "id": "portafogli-uomo",
+      "nome": "Accessori uomo",
+      "id": "accessori-uomo",
       "icona": "",
       "genitore": "uomo",
       "tr": {
         "en": {
-          "nome": "Wallets men"
+          "nome": "Accessories men"
+        }
+      }
+    },
+    {
+      "nome": "Occhiali uomo",
+      "id": "occhiali-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Eyewear men"
+        }
+      }
+    },
+    {
+      "nome": "Viaggio uomo",
+      "id": "viaggio-uomo",
+      "icona": "",
+      "genitore": "uomo",
+      "tr": {
+        "en": {
+          "nome": "Travel men"
+        }
+      }
+    },
+    {
+      "nome": "Fragranze",
+      "id": "fragranze",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Fragrances"
+        }
+      }
+    },
+    {
+      "nome": "Eau de parfum",
+      "id": "eau-de-parfum",
+      "icona": "",
+      "genitore": "fragranze",
+      "tr": {
+        "en": {
+          "nome": "Eau de parfum"
+        }
+      }
+    },
+    {
+      "nome": "Set e ricariche",
+      "id": "set-e-ricariche",
+      "icona": "",
+      "genitore": "fragranze",
+      "tr": {
+        "en": {
+          "nome": "Sets and refills"
+        }
+      }
+    },
+    {
+      "nome": "Accessori per profumo",
+      "id": "accessori-fragranze",
+      "icona": "",
+      "genitore": "fragranze",
+      "tr": {
+        "en": {
+          "nome": "Fragrance accessories"
+        }
+      }
+    },
+    {
+      "nome": "Casa",
+      "id": "casa",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Home"
         }
       }
     },
@@ -240,6 +262,27 @@
       }
     },
     {
+      "nome": "Accessori in pelle",
+      "id": "accessori-in-pelle-casa",
+      "icona": "",
+      "genitore": "casa",
+      "tr": {
+        "en": {
+          "nome": "Leather accessories"
+        }
+      }
+    },
+    {
+      "nome": "Regali",
+      "id": "regali",
+      "icona": "",
+      "tr": {
+        "en": {
+          "nome": "Gifts"
+        }
+      }
+    },
+    {
       "nome": "Regali per lei",
       "id": "regali-per-lei",
       "icona": "",
@@ -262,6 +305,17 @@
       }
     },
     {
+      "nome": "Bambini e nascite",
+      "id": "regali-bambini",
+      "icona": "",
+      "genitore": "regali",
+      "tr": {
+        "en": {
+          "nome": "Kids and newborns"
+        }
+      }
+    },
+    {
       "nome": "Personalizzazione",
       "id": "regali-personalizzati",
       "icona": "",
@@ -278,7 +332,7 @@
       "tipo": "fisico",
       "id": "venere",
       "nome": "Trastevere – Abito midi in seta",
-      "categoria": "donna",
+      "categoria": "abbigliamento-donna",
       "prezzo_centesimi": 185000,
       "descrizione": "Collezione Venere · Seta fluida, scollo morbido, lunghezza midi: l'eleganza dell'amore. Made in Rome.",
       "descrizione_completa": "Collezione Venere.\nAbito midi in crêpe di seta, drappeggio sul fianco, scollo a V profondo. Cucito in Italia, perfetto dal giorno alla sera.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
@@ -298,7 +352,7 @@
       "tipo": "fisico",
       "id": "diana",
       "nome": "Parioli – Blazer sartoriale in lana fresca",
-      "categoria": "donna",
+      "categoria": "abbigliamento-donna",
       "prezzo_centesimi": 129000,
       "descrizione": "Collezione Venere · Il blazer della cacciatrice: linea netta, spalla strutturata, lana leggera. Made in Rome.",
       "descrizione_completa": "Collezione Venere.\nBlazer monopetto in lana fresca, spalla strutturata, vita segnata. Sartoria italiana per chi sa dove vuole arrivare.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
@@ -318,7 +372,7 @@
       "tipo": "fisico",
       "id": "aurora",
       "nome": "Borgo – Blusa in seta lavata",
-      "categoria": "donna",
+      "categoria": "abbigliamento-donna",
       "prezzo_centesimi": 52000,
       "descrizione": "Collezione Venere · I colori dell'alba in una blusa in seta lavata, morbida e luminosa. Made in Rome.",
       "descrizione_completa": "Collezione Venere.\nBlusa in seta lavata, bottoni in madreperla, polsi morbidi. Un capo versatile, da portare sotto il blazer o da sola.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
@@ -338,7 +392,7 @@
       "tipo": "fisico",
       "id": "appia",
       "nome": "Appia – Cappotto con cintura in puro cammello",
-      "categoria": "donna",
+      "categoria": "abbigliamento-donna",
       "prezzo_centesimi": 219000,
       "descrizione": "Collezione Giunone · Cappotto avvolgente in puro cammello, linea ampia e cintura in tessuto. Made in Rome.",
       "descrizione_completa": "Collezione Giunone.\nCappotto con cintura in puro cammello, spalla scesa e lunghezza midi. Fodera in seta, bottoni in corno.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.\nComposizione: 100% cammello. Fodera: 100% seta.",
@@ -358,7 +412,7 @@
       "tipo": "fisico",
       "id": "vesta",
       "nome": "Gianicolo – Abito lungo in raso di seta",
-      "categoria": "donna",
+      "categoria": "abbigliamento-donna",
       "prezzo_centesimi": 295000,
       "descrizione": "Collezione Venere · Il fuoco sacro di Roma in un abito lungo: raso di seta, schiena scoperta. Made in Rome.",
       "descrizione_completa": "Collezione Venere.\nAbito lungo in raso di seta, schiena scoperta, spacco laterale. Per le sere in cui servono luce e carattere.\nTagliato e cucito a Roma: la sartoria romana incontra una linea contemporanea, pulita, senza tempo.",
@@ -398,7 +452,7 @@
       "tipo": "fisico",
       "id": "borsa-tracolla-pelle",
       "nome": "Borsa a tracolla in pelle",
-      "categoria": "borse-a-tracolla-in-pelle",
+      "categoria": "borse-donna",
       "prezzo_centesimi": 37000,
       "descrizione": "Borsa a tracolla in vera pelle bovina a grana naturale, con patta e fermaglio girevole in metallo.",
       "descrizione_completa": "Borsa a tracolla in vera pelle bovina con grana naturale a ciottoli: morbida, strutturata e resistente ai graffi.\nPatta con fermaglio girevole in metallo.\nDoppi spallacci da spalla.\nInterno foderato in ecopelle, con tasca a bustina e patta interna con chiusura a pressione.\nMisure disponibili (lunghezza × larghezza × altezza): Mini 26 × 9 × 17 cm, Medio 33 × 10 × 20 cm, Grande 39 × 11 × 24 cm. Misure approssimative.\nCura: tenere lontano da acqua e profumi, pulire con un panno asciutto e conservare in un luogo asciutto. Trattandosi di pelle naturale, piccole variazioni di grana e di tonalita' fanno parte del materiale.",
@@ -682,7 +736,7 @@
       "tipo": "fisico",
       "id": "portapassaporto-in-pelle",
       "nome": "Portapassaporto in pelle",
-      "categoria": "portapassaporti-in-pelle",
+      "categoria": "viaggio-donna",
       "prezzo_centesimi": 13000,
       "descrizione": "Vera pelle di alta qualità: realizzata in pelle spessa e di alta qualità che invecchia magnificamente nel tempo, sviluppando una ricca patina unica per ogni.",
       "descrizione_completa": "Vera pelle di alta qualità: realizzata in pelle spessa e di alta qualità che invecchia magnificamente nel tempo, sviluppando una ricca patina unica per ogni pezzo.\nCompatto e ideale per i viaggi: con dimensioni di circa 14 x 21 cm da aperto, può contenere tutto il necessario per il viaggio senza risultare ingombrante o poco pratico.\nEccellenza artigianale: ogni portapassaporto è cucito a mano con cura per garantire durata e una finitura di alta qualità.\nScomparto per passaporto con spazio per carte d'imbarco/biglietti aerei.\n2 scomparti per carte + 1 scomparto per contanti o ricevute\nDimensioni compatte: 14 x 21 cm (aperto)",
@@ -700,7 +754,7 @@
       "tipo": "fisico",
       "id": "portafoglio-in-pelle",
       "nome": "Portafoglio in pelle",
-      "categoria": "portafogli-in-pelle",
+      "categoria": "portafogli-donna",
       "prezzo_centesimi": 21000,
       "descrizione": "Vera pelle, finitura in morbida pelle, protezione RFID.",
       "descrizione_completa": "Vera pelle\nFinitura in morbida pelle\nProtezione RFID\nDesign a tre ante con cerniera\n8 slot per carte\n1 finestra ID",
@@ -717,7 +771,7 @@
       "tipo": "fisico",
       "id": "cintura-in-pelle",
       "nome": "Cintura in pelle",
-      "categoria": "cinture-uomo",
+      "categoria": "accessori-uomo",
       "prezzo_centesimi": 16000,
       "descrizione": "1,6'' (40 mm) di larghezza, 100% Pelle italiana pieno fiore, fibbia removibile (fibbia in acciaio inossidabile inclusa).",
       "descrizione_completa": "1,6'' (40 mm) di larghezza\n100% Pelle italiana pieno fiore\nFibbia removibile (fibbia in acciaio inossidabile inclusa)\nGaranzia a vita\nUtilizziamo solo pelle pieno fiore di altissima qualità, prodotta eticamente.",
@@ -734,7 +788,7 @@
       "tipo": "fisico",
       "id": "zaino-capitolino-in-pelle",
       "nome": "Zaino Capitolino in pelle",
-      "categoria": "zaini-in-pelle-uomo",
+      "categoria": "borse-uomo",
       "prezzo_centesimi": 48000,
       "descrizione": "Pelle pieno fiore, all'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare., tracolla regolabile.",
       "descrizione_completa": "Pelle pieno fiore\nAll'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare.\nTracolla regolabile\nPuò contenere un laptop da 16\".\n",
@@ -751,7 +805,7 @@
       "tipo": "fisico",
       "id": "borsa-a-tracolla-vittoria-in-pelle",
       "nome": "Borsa a tracolla Vittoria in pelle",
-      "categoria": "borse-a-tracolla-in-pelle",
+      "categoria": "borse-donna",
       "prezzo_centesimi": 49000,
       "descrizione": "Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.",
       "descrizione_completa": "Ci sono oggetti che non si possiedono: si abitano. Poche linee, un pellame scelto con cura, cuciture che resistono al tempo: il resto lo scrive l'uso quotidiano. Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.\n\nCaratteristiche e misure\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 37–39 × 13 × 20 cm, Grande 44 × 14 × 23 cm. Misure approssimative.",
@@ -841,7 +895,7 @@
       "tipo": "fisico",
       "id": "borsa-hobo-conciata-al-vegetale-aventino-in-pelle",
       "nome": "Borsa hobo conciata al vegetale Aventino in pelle",
-      "categoria": "borse-a-tracolla-in-pelle-uomo",
+      "categoria": "borse-uomo",
       "prezzo_centesimi": 43000,
       "descrizione": "Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.",
       "descrizione_completa": "La pelle migliore non ha fretta. Come fanno i grandi atelier europei, che hanno fatto della pelle un linguaggio, scegliamo un solo pellame e lo lasciamo parlare: grana viva, profumo di concia, tagli netti, cuciture pazienti. Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.\n\nCaratteristiche e misure\nCaratteristiche di design\nDimensioni e lunghezza del cinturino\nOgni borsa è realizzata a mano e potrebbe presentare lievi variazioni nella grana e nella consistenza della pelle: questa è la bellezza dei materiali naturali.\nPoiché le borse vengono realizzate su ordinazione, non si accettano resi, salvo in caso di problemi di qualità.*\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 24,5 × 11,5 × 19 cm, Grande 27,5 × 11,5 × 24 cm. Misure approssimative.",
@@ -913,7 +967,7 @@
       "tipo": "fisico",
       "id": "borsa-cassia-in-pelle",
       "nome": "Borsa Cassia in pelle",
-      "categoria": "borse-a-tracolla-in-pelle",
+      "categoria": "borse-donna",
       "prezzo_centesimi": 31000,
       "descrizione": "Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.",
       "descrizione_completa": "Il lusso vero è silenzioso. Segni, lucidature e piccole imperfezioni diventano carattere: un oggetto pensato per migliorare con gli anni, non per inseguire la moda. Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.\n\nCaratteristiche e misure\nAltezza (maniglia esclusa): 34 cm\nProfondità: 14 cm\nLarghezza: 39 cm",
@@ -931,7 +985,7 @@
       "tipo": "fisico",
       "id": "borsa-quirinale-in-pelle",
       "nome": "Borsa Quirinale in pelle",
-      "categoria": "borse-in-pelle",
+      "categoria": "borse-donna",
       "prezzo_centesimi": 44000,
       "descrizione": "Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.",
       "descrizione_completa": "La bellezza nasce dalla misura. Nei laboratori dove la pelletteria è una tradizione tramandata, ogni pezzo nasce da un gesto lento: scegliere il pellame, tagliarlo, cucirlo con pazienza. Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.\nMisure disponibili (lunghezza × larghezza × altezza): Standard + tracolla 26,7 × 7,6 × 20,3 cm, Standard + tracolla e spalla 26,7 × 7,6 × 20,3 cm, Grande + tracolla 31,8 × 10,2 × 22,9 cm, Grande + tracolla e spalla 31,8 × 10,2 × 22,9 cm. Misure approssimative.",
