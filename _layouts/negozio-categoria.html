@@ -17,31 +17,44 @@ Le classi nz-* e i testi italiani dentro elementi nz-* sono tradotti da shop-i18
 {%- else -%}
 {%- assign nz_figli = site.data.catalogo.categorie | where: 'genitore', nz_k.id -%}
 {%- if nz_k.genitore -%}{%- assign nz_pad = site.data.catalogo.categorie | where: 'id', nz_k.genitore | first -%}{%- endif -%}
+{%- comment -%} Tre livelli: reparto (Donna) > categoria (Borse donna) > sotto-sotto (Pochette donna). nz_rep = reparto, nz_l2 = categoria del secondo livello (vuota nella pagina del reparto). {%- endcomment -%}
+{%- assign nz_rep = nz_k -%}{%- assign nz_l2 = nil -%}
+{%- if nz_pad -%}
+{%- if nz_pad.genitore -%}{%- assign nz_rep = site.data.catalogo.categorie | where: 'id', nz_pad.genitore | first -%}{%- assign nz_l2 = nz_pad -%}
+{%- else -%}{%- assign nz_rep = nz_pad -%}{%- assign nz_l2 = nz_k -%}{%- endif -%}
+{%- endif -%}
 {%- assign nz_ids = nz_k.id -%}
 {%- for f in nz_figli -%}{%- assign nz_ids = nz_ids | append: ',' | append: f.id -%}{%- endfor -%}
 {%- assign nz_ids_a = nz_ids | split: ',' -%}
 <div id="negozio" data-tracker="{{ site.ordini.tracker }}" data-worker="">
-<nav class="nz-brd" aria-label="Percorso"><a href="{{ nz_u_shop }}">Negozio</a>{% if nz_pad %} &rsaquo; <a href="{% include shop-url.html k="cat" id=nz_pad.id %}">{{ nz_pad.tr[page.lang].nome | default: nz_pad.nome }}</a>{% endif %} &rsaquo; <span>{{ nz_k.tr[page.lang].nome | default: nz_k.nome }}</span></nav>
+<nav class="nz-brd" aria-label="Percorso"><a href="{{ nz_u_shop }}">Negozio</a>{% if nz_rep.id != nz_k.id %} &rsaquo; <a href="{% include shop-url.html k="cat" id=nz_rep.id %}">{{ nz_rep.tr[page.lang].nome | default: nz_rep.nome }}</a>{% endif %}{% if nz_l2 and nz_l2.id != nz_k.id %} &rsaquo; <a href="{% include shop-url.html k="cat" id=nz_l2.id %}">{{ nz_l2.tr[page.lang].nome | default: nz_l2.nome }}</a>{% endif %} &rsaquo; <span>{{ nz_k.tr[page.lang].nome | default: nz_k.nome }}</span></nav>
 <div class="nz-pills"><a class="nz-cpill" href="{{ nz_u_shop }}">Tutti</a>
 {%- for c in site.data.catalogo.categorie -%}
 {%- unless c.genitore -%}
-<a class="nz-cpill{% if c.id == nz_k.id or c.id == nz_k.genitore %} on{% endif %}" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
+<a class="nz-cpill{% if c.id == nz_rep.id %} on{% endif %}" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
 {%- endunless -%}
 {%- endfor %}
 </div>
-{%- if nz_figli.size > 0 %}
+{%- comment -%} Riga 2: categorie del reparto (restano SEMPRE visibili, anche dentro le sotto-sotto) {%- endcomment -%}
+{%- assign nz_r2 = site.data.catalogo.categorie | where: 'genitore', nz_rep.id %}
+{%- if nz_r2.size > 0 %}
 <div class="nz-pills nz-sub">
-{%- for c in nz_figli %}
-<a class="nz-cpill" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
+{%- for c in nz_r2 %}
+<a class="nz-cpill{% if nz_l2 and c.id == nz_l2.id %} on{% endif %}" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
 {%- endfor %}
 </div>
-{%- elsif nz_pad %}
-{%- assign nz_fr = site.data.catalogo.categorie | where: 'genitore', nz_pad.id %}
-<div class="nz-pills nz-sub">
-{%- for c in nz_fr %}
+{%- endif %}
+{%- comment -%} Riga 3: sotto-sotto categorie della categoria corrente, con "Tutte" per prima (= tutti i prodotti della categoria) {%- endcomment -%}
+{%- if nz_l2 %}
+{%- assign nz_r3 = site.data.catalogo.categorie | where: 'genitore', nz_l2.id %}
+{%- if nz_r3.size > 0 %}
+<div class="nz-pills nz-sub nz-sub2">
+<a class="nz-cpill{% if nz_k.id == nz_l2.id %} on{% endif %}" href="{% include shop-url.html k="cat" id=nz_l2.id %}">{% if page.lang == 'en' %}All{% else %}Tutte{% endif %}</a>
+{%- for c in nz_r3 %}
 <a class="nz-cpill{% if c.id == nz_k.id %} on{% endif %}" href="{% include shop-url.html k="cat" id=c.id %}">{{ c.icona }} {{ c.tr[page.lang].nome | default: c.nome }}</a>
 {%- endfor %}
 </div>
+{%- endif %}
 {%- endif %}
 {%- assign nz_lista1 = site.data.catalogo.prodotti | where_exp: 'x', 'nz_ids_a contains x.categoria' -%}
 {%- assign nz_lista2 = site.data.catalogo.prodotti | where_exp: 'x', 'nz_ids_a contains x.categoria2' -%}
@@ -52,38 +65,12 @@ Le classi nz-* e i testi italiani dentro elementi nz-* sono tradotti da shop-i18
 {%- else -%}
 <p class="nz-cnt">{{ nz_lista.size }} {% if nz_lista.size == 1 %}prodotto{% else %}prodotti{% endif %}</p>
 {%- endif -%}
-{%- if nz_k.genitore and nz_figli.size > 0 -%}
-{%- comment -%} Categoria con sotto-sotto categorie (es. Borse donna > Pochette): sezioni con titolo h2 e riga hr. Prodotti diretti (senza sotto-sotto) per primi. {%- endcomment -%}
-{%- assign nz_dir = site.data.catalogo.prodotti | where: 'categoria', nz_k.id | where_exp: 'x', 'x.visibile != false' -%}
-{%- if nz_dir.size > 0 -%}
-<div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
-{%- for b in nz_dir -%}
-{% include negozio-riga.html b=b cat=nz_k %}
-{%- endfor -%}
-</div>
-{%- endif -%}
-{%- for f in nz_figli -%}
-{%- assign nz_gl = site.data.catalogo.prodotti | where: 'categoria', f.id | where_exp: 'x', 'x.visibile != false' -%}
-{%- if nz_gl.size > 0 -%}
-{%- unless forloop.first and nz_dir.size == 0 %}
-<hr class="nz-hr">
-{%- endunless %}
-<h2 class="nz-sottotit" id="{{ f.id }}"><a href="{% include shop-url.html k="cat" id=f.id %}">{{ f.tr[page.lang].nome | default: f.nome }}</a></h2>
-<div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
-{%- for b in nz_gl -%}
-{% include negozio-riga.html b=b cat=f %}
-{%- endfor -%}
-</div>
-{%- endif -%}
-{%- endfor -%}
-{%- else -%}
 <div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
 {%- for b in nz_lista -%}
 {%- assign nz_cb = site.data.catalogo.categorie | where: 'id', b.categoria | first -%}
 {% include negozio-riga.html b=b cat=nz_cb %}
 {%- endfor -%}
 </div>
-{%- endif -%}
 <p class="nz-vai"><a class="btn btn-outline-secondary" href="{{ nz_lh | append: 'carrello/' | relative_url }}">Vai al carrello</a></p>
 </div>
 {%- endif -%}
