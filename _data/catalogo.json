@@ -1280,6 +1280,24 @@
         "acquisto": 134.1,
         "foto": "originale"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-a-tracolla-scamosciata-laurentina-in-pelle",
+      "nome": "Borsa a tracolla scamosciata Laurentina in pelle",
+      "categoria": "borse-hobo-donna",
+      "prezzo_centesimi": 16000,
+      "descrizione": "Un accessorio che mette ordine nella giornata: spazio per l'essenziale, posto per l'imprevisto, stile per tutto il resto.",
+      "descrizione_completa": "La bellezza nasce dalla misura. Il cuoio vero cambia con chi lo usa, e dopo qualche stagione racconta una storia che nessun'altra pelle ha. Un accessorio che mette ordine nella giornata: spazio per l'essenziale, posto per l'imprevisto, stile per tutto il resto.\n\nCaratteristiche e misure\nEcopelle scamosciata vellutata di alta qualità: ecopelle scamosciata in PU resistente all'acqua, morbidissima al tatto e dalla struttura durevole.\nSet pratico 2 in 1: include una piccola pochette interna coordinata in omaggio per organizzare cosmetici, chiavi e oggetti di valore.\nCuciture doppie precise: le linee di cucitura pulite e rinforzate evidenziano la maestria artigianale e la robustezza strutturale.\nAmpia altezza del manico (30 cm): la tracolla ergonomica integrata si adatta comodamente a cappotti spessi, giacche e gilet.\nComoda chiusura magnetica a scatto: la chiusura a scatto sicura mantiene i tuoi effetti personali al sicuro consentendo al contempo un accesso rapido.\nMateriale: Pelle scamosciata sintetica PU di alta qualità + Fodera interna in poliestere liscio",
+      "immagine": "assets/images/prodotti/borsa-a-tracolla-scamosciata-laurentina-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4573796056",
+        "acquisto": 50.71,
+        "foto": "originale"
+      }
     }
   ]
 }
