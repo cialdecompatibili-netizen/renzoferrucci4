@@ -1346,6 +1346,24 @@
         "acquisto": 102.99,
         "foto": "originale"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-a-tracolla-vacchetta-minerva-in-pelle",
+      "nome": "Borsa a tracolla vacchetta Minerva in pelle",
+      "categoria": "borse-a-tracolla-donna",
+      "prezzo_centesimi": 36000,
+      "descrizione": "Una borsa da vivere, non da esporre: capiente, comoda, sempre pronta a seguirti dove vuoi andare.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Come fanno i grandi atelier europei, che hanno fatto della pelle un linguaggio, scegliamo un solo pellame e lo lasciamo parlare: grana viva, profumo di concia, tagli netti, cuciture pazienti. Una borsa da vivere, non da esporre: capiente, comoda, sempre pronta a seguirti dove vuoi andare.\n\nCaratteristiche e misure\nMateriale: 100% vera pelle bovina\nChiusura: chiusura a girello\nManiglia: mobile e rimovibile\nModalità di trasporto: a spalla o a mano\nTaglie: Piccola, Media e Grande\nMini - 26 x 9 x 17 cm / 10,2 x 3,5 x 6,7 pollici",
+      "immagine": "assets/images/prodotti/borsa-a-tracolla-vacchetta-minerva-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4582014177",
+        "acquisto": 117.9,
+        "foto": "originale"
+      }
     }
   ]
 }
