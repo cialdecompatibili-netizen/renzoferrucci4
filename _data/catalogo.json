@@ -1244,6 +1244,24 @@
         "acquisto": 21.96,
         "foto": "lusso"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pochette-flaminia-in-pelle",
+      "nome": "Pochette Flaminia in pelle",
+      "categoria": "pochette-donna",
+      "prezzo_centesimi": 55000,
+      "descrizione": "Passa dal giorno alla sera senza cambiare passo: una borsa versatile, pensata per accompagnare ogni tua versione.",
+      "descrizione_completa": "Certi oggetti nascono per essere usati, non esposti. Il cuoio vero cambia con chi lo usa, e dopo qualche stagione racconta una storia che nessun'altra pelle ha. Passa dal giorno alla sera senza cambiare passo: una borsa versatile, pensata per accompagnare ogni tua versione.\n\nCaratteristiche e misure\nFodera esterna e interna realizzate al 100% in pelle\nDimensioni Larghezza, Profondità, Altezza:\nChiusura magnetica della cornice con finitura dorata\nPassanti per tracolla o catena opzionali",
+      "immagine": "assets/images/prodotti/pochette-flaminia-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/1869339893",
+        "acquisto": 172.96,
+        "foto": "lusso"
+      }
     }
   ]
 }
