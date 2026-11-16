@@ -1309,6 +1309,24 @@
         "acquisto": 50.71,
         "foto": "originale"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-tote-classica-testaccio-in-pelle",
+      "nome": "Borsa tote classica Testaccio in pelle",
+      "categoria": "borse-da-lavoro-donna",
+      "prezzo_centesimi": 17000,
+      "descrizione": "L'eleganza che non si spiega: la prendi in mano e capisci subito perché è stata fatta così.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Il cuoio vero cambia con chi lo usa, e dopo qualche stagione racconta una storia che nessun'altra pelle ha. L'eleganza che non si spiega: la prendi in mano e capisci subito perché è stata fatta così.\n\nCaratteristiche e misure\nMini: Dimensioni: 25 cm di larghezza alla base, 33 cm di larghezza nella parte superiore, 11,4 cm di profondità e 28 cm di altezza.\nMidi: Dimensioni: 28 cm di larghezza alla base, 38 cm di larghezza nella parte superiore, 14 cm di profondità e 30 cm di altezza.\nGrande: Dimensioni: 30 cm di larghezza alla base, 45 cm di larghezza nella parte superiore, 15 cm di profondità e 32 cm di altezza.",
+      "immagine": "assets/images/prodotti/borsa-tote-classica-testaccio-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/903795865",
+        "acquisto": 55.49,
+        "foto": "originale"
+      }
     }
   ]
 }
