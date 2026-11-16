@@ -436,7 +436,14 @@ document.addEventListener('DOMContentLoaded', function(){
     // Gli H3 prima di qualunque H2 diventano voci di primo livello (vedi !lastTopLi sotto).
     var headings = Array.prototype.slice.call(content.querySelectorAll('h2, h3'));
     var h2Count = headings.filter(function(h){ return h.tagName === 'H2'; }).length;
-    if (h2Count < 3) return;
+    var firstEl = null;
+    if (h2Count < 3) {
+      // Classifiche: pochi H2 ma elenco numerato con nome in grassetto -> indice dai nomi (>=5 voci)
+      var names = Array.prototype.slice.call(content.querySelectorAll('ol > li > strong:first-child'));
+      if (names.length < 5) return;
+      headings = names;
+      firstEl = names[0].parentNode.parentNode;
+    }
 
     var toc = document.createElement('nav');
     toc.className = 'article-auto-toc';
@@ -468,7 +475,7 @@ document.addEventListener('DOMContentLoaded', function(){
     });
     toc.appendChild(ol);
 
-    var first = headings[0];
+    var first = firstEl || headings[0];
     first.parentNode.insertBefore(toc, first);
   })();
 
