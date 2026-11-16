@@ -1262,6 +1262,24 @@
         "acquisto": 172.96,
         "foto": "lusso"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-alta-qualita-trevi-in-pelle",
+      "nome": "Borsa alta qualità Trevi in pelle",
+      "categoria": "borse-a-tracolla-donna",
+      "prezzo_centesimi": 41000,
+      "descrizione": "La porti a mano o sulla spalla, ma la riconosci sempre dalla stessa cosa: un'eleganza tranquilla e un po' controcorrente.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Segni, lucidature e piccole imperfezioni diventano carattere: un oggetto pensato per migliorare con gli anni, non per inseguire la moda. La porti a mano o sulla spalla, ma la riconosci sempre dalla stessa cosa: un'eleganza tranquilla e un po' controcorrente.",
+      "immagine": "assets/images/prodotti/borsa-alta-qualita-trevi-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4461311370",
+        "acquisto": 134.1,
+        "foto": "originale"
+      }
     }
   ]
 }
