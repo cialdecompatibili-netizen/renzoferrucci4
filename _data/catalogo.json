@@ -1244,6 +1244,24 @@
         "acquisto": 21.96,
         "foto": "originale"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pochette-frattina-in-pelle",
+      "nome": "Pochette Frattina in pelle",
+      "categoria": "pochette-donna",
+      "prezzo_centesimi": 7000,
+      "descrizione": "Trama, grana e proporzioni lavorano insieme per una borsa che resta elegante oggi e tra dieci anni.",
+      "descrizione_completa": "Ci sono gesti che si ripetono ogni giorno e meritano un oggetto all'altezza. Il cuoio vero cambia con chi lo usa, e dopo qualche stagione racconta una storia che nessun'altra pelle ha. Trama, grana e proporzioni lavorano insieme per una borsa che resta elegante oggi e tra dieci anni.\n\nCaratteristiche e misure\nPelle pregiata lavorata a mano con una finitura liscia e resistente\nChiusura con cerniera sicura per un'organizzazione ottimale nella vita di tutti i giorni\nOrganizzazione degli oggetti essenziali di tutti i giorni e dei viaggi\nPochette minimalista da polso",
+      "immagine": "assets/images/prodotti/pochette-frattina-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4424960010/pochette-in-pelle-personalizzata-con",
+        "acquisto": 21.96,
+        "foto": "lusso"
+      }
     }
   ]
 }
