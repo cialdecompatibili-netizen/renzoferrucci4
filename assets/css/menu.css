@@ -47,16 +47,10 @@
 .nv__dd--wide { left: auto; right: 1rem; width: min(44rem, calc(100vw - 2rem)); columns: 2; column-gap: 0; }
 .nv__dd--wide .nv__dd-item { white-space: normal; break-inside: avoid; }
 .nv__dd--wide .nv__divider { column-span: all; }
-/* prima voce della tendina (es. "Tutti i servizi"): centrata, su tutta la larghezza */
-.nv__dd > .nv__dd-item:first-child { text-align: center; font-weight: 600; column-span: all; }
 /* tendina a 2 colonne pari (6-8 voci, es. Journal): griglia simmetrica, prima voce come le altre */
 .nv__item.show > .nv__dd--duo { display: grid; grid-template-columns: 1fr 1fr; min-width: 22rem; }
 .nv__dd--duo > .nv__dd-item, .nv__dd--duo > .nv__dd-item:first-child { text-align: center; font-weight: 400; white-space: normal; }
 .nv__dd--duo > .nv__divider { grid-column: 1 / -1; }
-.nv__dd--duo > .nv__divider + .nv__dd-item { grid-column: 1 / -1; text-align: center; font-weight: 600; }
-/* "Tutti i ..." come PRIMA voce (es. Negozio): in alto, centrata su tutta la larghezza; poi le voci a coppie, simmetriche */
-.nv__dd--duo > .nv__dd-item:first-child:has(+ .nv__divider) { grid-column: 1 / -1; font-weight: 600; }
-.nv__dd--duo > .nv__dd-item:first-child + .nv__divider + .nv__dd-item { grid-column: auto; font-weight: 400; }
 /* voce dispari rimasta sola in fondo: centrata su tutta la larghezza */
 .nv__dd--duo > .nv__dd-item:last-child:nth-child(odd) { grid-column: 1 / -1; }
 /* tendina centrata sotto il suo padre (tranne le ultime voci, che si aprono a sinistra) */
