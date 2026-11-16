@@ -1327,6 +1327,25 @@
         "acquisto": 55.49,
         "foto": "originale"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-a-tracolla-bufalo-colosseo-in-pelle",
+      "nome": "Borsa a tracolla bufalo Colosseo in pelle",
+      "categoria": "borse-da-lavoro-donna",
+      "prezzo_centesimi": 31000,
+      "descrizione": "Il cuoio giusto fa la differenza: si lascia toccare, ricorda ogni stagione e restituisce, con gli anni, un colore tutto suo.",
+      "descrizione_completa": "Il lusso vero è silenzioso. Parla attraverso la grana, il profumo della concia e la precisione dei margini, senza bisogno di clamore: una pelle che invecchia bene è la sola firma che conta. Il cuoio giusto fa la differenza: si lascia toccare, ricorda ogni stagione e restituisce, con gli anni, un colore tutto suo.",
+      "immagine": "assets/images/prodotti/borsa-a-tracolla-bufalo-colosseo-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "categoria2": "borse-da-lavoro-uomo",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4557887077",
+        "acquisto": 102.99,
+        "foto": "originale"
+      }
     }
   ]
 }
