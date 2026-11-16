@@ -391,6 +391,17 @@
           "nome": "Work bags men"
         }
       }
+    },
+    {
+      "nome": "Borse da lavoro donna",
+      "id": "borse-da-lavoro-donna",
+      "icona": "",
+      "genitore": "borse-donna",
+      "tr": {
+        "en": {
+          "nome": "Work bags women"
+        }
+      }
     }
   ],
   "prodotti": [
