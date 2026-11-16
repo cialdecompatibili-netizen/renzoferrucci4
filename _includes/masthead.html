@@ -89,7 +89,7 @@
             {%- assign wide = false -%}
             {%- if kids.size > 8 -%}{%- assign wide = true -%}{%- endif -%}
             {%- comment -%} 2 COLONNE OBBLIGATE in TUTTE le tendine: le larghe (>8 voci) hanno gia' columns:2, tutte le altre (Shop incluso) usano --duo (2 colonne). Per tornare a una colonna sotto le 6 voci rimetti la condizione kids.size >= 6. {%- endcomment -%}
-            {%- assign duo = true -%}{%- if wide -%}{%- assign duo = false -%}{%- endif -%}
+            {%- assign duo = false -%}
             {%- capture dd_html -%}
               {%- if kids -%}
                 {%- for k in kids -%}
@@ -111,6 +111,9 @@
                 {%- endfor -%}
               {%- endif -%}
             {%- endcapture -%}
+            {%- comment -%} 16/11/2026: parte con 1 colonna; da 6 voci in su 2 colonne simmetriche (--duo, le voci si dispongono a coppie). Soglia: cambia il 6. {%- endcomment -%}
+            {%- assign dd_n = dd_html | split: '<a ' | size | minus: 1 -%}
+            {%- if dd_n >= 6 and wide == false -%}{%- assign duo = true -%}{%- endif -%}
 
             {%- if dd_html contains '<a' -%}
               <!-- VOCE CON TENDINA: il padre e' un pulsante, non un link -->
