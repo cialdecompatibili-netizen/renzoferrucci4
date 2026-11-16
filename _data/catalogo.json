@@ -1124,6 +1124,24 @@
         "acquisto": 138.27,
         "foto": "lusso"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsa-sistina-in-pelle",
+      "nome": "Borsa Sistina in pelle",
+      "categoria": "borse-uomo",
+      "prezzo_centesimi": 49000,
+      "descrizione": "Dettagli curati, forma essenziale e una pelle viva che invecchia con grazia: l'accessorio su cui si costruisce un guardaroba.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Parla attraverso la grana, il profumo della concia e la precisione dei margini, senza bisogno di clamore: una pelle che invecchia bene è la sola firma che conta. Dettagli curati, forma essenziale e una pelle viva che invecchia con grazia: l'accessorio su cui si costruisce un guardaroba.",
+      "immagine": "assets/images/prodotti/borsa-sistina-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/805486564/borsa-da-lavoro-vintage-in-pelle",
+        "acquisto": 160.09,
+        "foto": "lusso"
+      }
     }
   ]
 }
