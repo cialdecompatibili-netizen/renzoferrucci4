@@ -52,12 +52,38 @@ Le classi nz-* e i testi italiani dentro elementi nz-* sono tradotti da shop-i18
 {%- else -%}
 <p class="nz-cnt">{{ nz_lista.size }} {% if nz_lista.size == 1 %}prodotto{% else %}prodotti{% endif %}</p>
 {%- endif -%}
+{%- if nz_k.genitore and nz_figli.size > 0 -%}
+{%- comment -%} Categoria con sotto-sotto categorie (es. Borse donna > Pochette): sezioni con titolo h2 e riga hr. Prodotti diretti (senza sotto-sotto) per primi. {%- endcomment -%}
+{%- assign nz_dir = site.data.catalogo.prodotti | where: 'categoria', nz_k.id | where_exp: 'x', 'x.visibile != false' -%}
+{%- if nz_dir.size > 0 -%}
+<div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
+{%- for b in nz_dir -%}
+{% include negozio-riga.html b=b cat=nz_k %}
+{%- endfor -%}
+</div>
+{%- endif -%}
+{%- for f in nz_figli -%}
+{%- assign nz_gl = site.data.catalogo.prodotti | where: 'categoria', f.id | where_exp: 'x', 'x.visibile != false' -%}
+{%- if nz_gl.size > 0 -%}
+{%- unless forloop.first and nz_dir.size == 0 %}
+<hr class="nz-hr">
+{%- endunless %}
+<h2 class="nz-sottotit" id="{{ f.id }}"><a href="{% include shop-url.html k="cat" id=f.id %}">{{ f.tr[page.lang].nome | default: f.nome }}</a></h2>
+<div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
+{%- for b in nz_gl -%}
+{% include negozio-riga.html b=b cat=f %}
+{%- endfor -%}
+</div>
+{%- endif -%}
+{%- endfor -%}
+{%- else -%}
 <div class="nz-lista" data-pg data-pg-item=".nz-box" data-per="{{ site.per_page | default: 20 }}">
 {%- for b in nz_lista -%}
 {%- assign nz_cb = site.data.catalogo.categorie | where: 'id', b.categoria | first -%}
 {% include negozio-riga.html b=b cat=nz_cb %}
 {%- endfor -%}
 </div>
+{%- endif -%}
 <p class="nz-vai"><a class="btn btn-outline-secondary" href="{{ nz_lh | append: 'carrello/' | relative_url }}">Vai al carrello</a></p>
 </div>
 {%- endif -%}

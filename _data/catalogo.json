@@ -325,6 +325,72 @@
           "nome": "Personalisation"
         }
       }
+    },
+    {
+      "nome": "Borse a tracolla donna",
+      "id": "borse-a-tracolla-donna",
+      "icona": "",
+      "genitore": "borse-donna",
+      "tr": {
+        "en": {
+          "nome": "Shoulder bags women"
+        }
+      }
+    },
+    {
+      "nome": "Borse hobo donna",
+      "id": "borse-hobo-donna",
+      "icona": "",
+      "genitore": "borse-donna",
+      "tr": {
+        "en": {
+          "nome": "Hobo bags women"
+        }
+      }
+    },
+    {
+      "nome": "Pochette donna",
+      "id": "pochette-donna",
+      "icona": "",
+      "genitore": "borse-donna",
+      "tr": {
+        "en": {
+          "nome": "Clutch bags women"
+        }
+      }
+    },
+    {
+      "nome": "Zaini uomo",
+      "id": "zaini-uomo",
+      "icona": "",
+      "genitore": "borse-uomo",
+      "tr": {
+        "en": {
+          "nome": "Backpacks men"
+        }
+      }
+    },
+    {
+      "nome": "Borse hobo uomo",
+      "id": "borse-hobo-uomo",
+      "icona": "",
+      "genitore": "borse-uomo",
+      "tr": {
+        "en": {
+          "nome": "Hobo bags men"
+        }
+      }
+    },
+    {
+      "nome": "Borse da lavoro uomo",
+      "id": "borse-da-lavoro-uomo",
+      "icona": "",
+      "genitore": "borse-uomo",
+      "tr": {
+        "en": {
+          "nome": "Work bags men"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -452,7 +518,7 @@
       "tipo": "fisico",
       "id": "borsa-tracolla-pelle",
       "nome": "Borsa a tracolla in pelle",
-      "categoria": "borse-donna",
+      "categoria": "borse-a-tracolla-donna",
       "prezzo_centesimi": 37000,
       "descrizione": "Borsa a tracolla in vera pelle bovina a grana naturale, con patta e fermaglio girevole in metallo.",
       "descrizione_completa": "Borsa a tracolla in vera pelle bovina con grana naturale a ciottoli: morbida, strutturata e resistente ai graffi.\nPatta con fermaglio girevole in metallo.\nDoppi spallacci da spalla.\nInterno foderato in ecopelle, con tasca a bustina e patta interna con chiusura a pressione.\nMisure disponibili (lunghezza × larghezza × altezza): Mini 26 × 9 × 17 cm, Medio 33 × 10 × 20 cm, Grande 39 × 11 × 24 cm. Misure approssimative.\nCura: tenere lontano da acqua e profumi, pulire con un panno asciutto e conservare in un luogo asciutto. Trattandosi di pelle naturale, piccole variazioni di grana e di tonalita' fanno parte del materiale.",
@@ -788,7 +854,7 @@
       "tipo": "fisico",
       "id": "zaino-capitolino-in-pelle",
       "nome": "Zaino Capitolino in pelle",
-      "categoria": "borse-uomo",
+      "categoria": "zaini-uomo",
       "prezzo_centesimi": 48000,
       "descrizione": "Pelle pieno fiore, all'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare., tracolla regolabile.",
       "descrizione_completa": "Pelle pieno fiore\nAll'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare.\nTracolla regolabile\nPuò contenere un laptop da 16\".\n",
@@ -805,7 +871,7 @@
       "tipo": "fisico",
       "id": "borsa-a-tracolla-vittoria-in-pelle",
       "nome": "Borsa a tracolla Vittoria in pelle",
-      "categoria": "borse-donna",
+      "categoria": "borse-a-tracolla-donna",
       "prezzo_centesimi": 49000,
       "descrizione": "Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.",
       "descrizione_completa": "Ci sono oggetti che non si possiedono: si abitano. Poche linee, un pellame scelto con cura, cuciture che resistono al tempo: il resto lo scrive l'uso quotidiano. Dalla mattina presto alla cena tardi, regge ogni ritmo senza perdere compostezza.\n\nCaratteristiche e misure\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 37–39 × 13 × 20 cm, Grande 44 × 14 × 23 cm. Misure approssimative.",
@@ -895,7 +961,7 @@
       "tipo": "fisico",
       "id": "borsa-hobo-conciata-al-vegetale-aventino-in-pelle",
       "nome": "Borsa hobo conciata al vegetale Aventino in pelle",
-      "categoria": "borse-uomo",
+      "categoria": "borse-hobo-uomo",
       "prezzo_centesimi": 43000,
       "descrizione": "Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.",
       "descrizione_completa": "La pelle migliore non ha fretta. Come fanno i grandi atelier europei, che hanno fatto della pelle un linguaggio, scegliamo un solo pellame e lo lasciamo parlare: grana viva, profumo di concia, tagli netti, cuciture pazienti. Materiali veri, forma essenziale, nessun fronzolo: la bellezza di un oggetto che sa esattamente a cosa serve.\n\nCaratteristiche e misure\nCaratteristiche di design\nDimensioni e lunghezza del cinturino\nOgni borsa è realizzata a mano e potrebbe presentare lievi variazioni nella grana e nella consistenza della pelle: questa è la bellezza dei materiali naturali.\nPoiché le borse vengono realizzate su ordinazione, non si accettano resi, salvo in caso di problemi di qualità.*\nMisure disponibili (lunghezza × larghezza × altezza): Piccola 24,5 × 11,5 × 19 cm, Grande 27,5 × 11,5 × 24 cm. Misure approssimative.",
@@ -967,7 +1033,7 @@
       "tipo": "fisico",
       "id": "borsa-cassia-in-pelle",
       "nome": "Borsa Cassia in pelle",
-      "categoria": "borse-donna",
+      "categoria": "borse-a-tracolla-donna",
       "prezzo_centesimi": 31000,
       "descrizione": "Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.",
       "descrizione_completa": "Il lusso vero è silenzioso. Segni, lucidature e piccole imperfezioni diventano carattere: un oggetto pensato per migliorare con gli anni, non per inseguire la moda. Il genere di borsa che si sceglie una volta e si tiene per anni: più la usi, più ti somiglia.\n\nCaratteristiche e misure\nAltezza (maniglia esclusa): 34 cm\nProfondità: 14 cm\nLarghezza: 39 cm",
@@ -985,7 +1051,7 @@
       "tipo": "fisico",
       "id": "borsa-quirinale-in-pelle",
       "nome": "Borsa Quirinale in pelle",
-      "categoria": "borse-donna",
+      "categoria": "borse-hobo-donna",
       "prezzo_centesimi": 44000,
       "descrizione": "Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.",
       "descrizione_completa": "La bellezza nasce dalla misura. Nei laboratori dove la pelletteria è una tradizione tramandata, ogni pezzo nasce da un gesto lento: scegliere il pellame, tagliarlo, cucirlo con pazienza. Un classico che non ha bisogno di presentazioni: proporzioni equilibrate, pelle viva, la sicurezza di una scelta giusta.\nMisure disponibili (lunghezza × larghezza × altezza): Standard + tracolla 26,7 × 7,6 × 20,3 cm, Standard + tracolla e spalla 26,7 × 7,6 × 20,3 cm, Grande + tracolla 31,8 × 10,2 × 22,9 cm, Grande + tracolla e spalla 31,8 × 10,2 × 22,9 cm. Misure approssimative.",
@@ -1129,7 +1195,7 @@
       "tipo": "fisico",
       "id": "borsa-sistina-in-pelle",
       "nome": "Borsa Sistina in pelle",
-      "categoria": "borse-uomo",
+      "categoria": "borse-da-lavoro-uomo",
       "prezzo_centesimi": 49000,
       "descrizione": "Dettagli curati, forma essenziale e una pelle viva che invecchia con grazia: l'accessorio su cui si costruisce un guardaroba.",
       "descrizione_completa": "Roma conosce il valore del tempo. Parla attraverso la grana, il profumo della concia e la precisione dei margini, senza bisogno di clamore: una pelle che invecchia bene è la sola firma che conta. Dettagli curati, forma essenziale e una pelle viva che invecchia con grazia: l'accessorio su cui si costruisce un guardaroba.",
@@ -1147,7 +1213,7 @@
       "tipo": "fisico",
       "id": "pochette-giunone-in-pelle",
       "nome": "Pochette Giunone in pelle",
-      "categoria": "borse-donna",
+      "categoria": "pochette-donna",
       "prezzo_centesimi": 9000,
       "descrizione": "Una borsa che invecchia come un buon paio di scarpe: meglio ogni anno, più tua ogni giorno.",
       "descrizione_completa": "Roma conosce il valore del tempo. Nei laboratori dove la pelletteria è una tradizione tramandata, ogni pezzo nasce da un gesto lento: scegliere il pellame, tagliarlo, cucirlo con pazienza. Una borsa che invecchia come un buon paio di scarpe: meglio ogni anno, più tua ogni giorno.\n\nCaratteristiche e misure\nMateriale: realizzato in pregiata pelle pieno fiore conciata al vegetale, che garantisce una consistenza ricca e una lunga durata.\nInterno: foderato in tessuto di cotone ad alta densità per maggiore protezione e comfort.\nDimensioni: 19 cm × 12 cm × 2 cm, per offrire ampio spazio per i tuoi oggetti essenziali.\nStruttura: presenta uno scomparto principale di grande capacità, due tasche laterali e una tasca esterna per una facile organizzazione.\nFunzionalità: il design con doppia cerniera consente di riporre gli oggetti in modo sicuro e di accedervi rapidamente.\nTrasportare con facilità telefono, carte, contanti e altri piccoli oggetti.",
