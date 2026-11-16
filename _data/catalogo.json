@@ -1226,6 +1226,24 @@
         "acquisto": 29.96,
         "foto": "lusso"
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pochette-ripetta-in-pelle",
+      "nome": "Pochette Ripetta in pelle",
+      "categoria": "pochette-donna",
+      "prezzo_centesimi": 7000,
+      "descrizione": "Una borsa che non si mostra, si lascia scoprire: il gesto con cui la apri diventa un piccolo rito quotidiano.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Il cuoio vero cambia con chi lo usa, e dopo qualche stagione racconta una storia che nessun'altra pelle ha. Una borsa che non si mostra, si lascia scoprire: il gesto con cui la apri diventa un piccolo rito quotidiano.\n\nCaratteristiche e misure\nPelle pregiata lavorata a mano con una finitura liscia e resistente\nChiusura con cerniera sicura per un'organizzazione ottimale nella vita di tutti i giorni\nOrganizzazione degli oggetti essenziali di tutti i giorni e dei viaggi\nPochette minimalista da polso",
+      "immagine": "assets/images/prodotti/pochette-ripetta-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/4424960010/pochette-in-pelle-personalizzata-con",
+        "acquisto": 21.96,
+        "foto": "originale"
+      }
     }
   ]
 }
