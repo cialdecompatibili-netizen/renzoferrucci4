@@ -24,3 +24,15 @@ categories:
 <h2><span class="ez-toc-section" id="Considerazioni_finali"></span>Considerazioni finali<span class="ez-toc-section-end"></span></h2>
 <p>In conclusione, possiamo dire che Emporio Armani è una linea di abbigliamento che ha saputo interpretare le esigenze e i gusti di una clientela giovane e dinamica, offrendo capi di qualità, eleganza e stile a prezzi accessibili. Emporio Armani ha anche saputo innovare e sperimentare, introducendo il denim nella moda di lusso e creando un logo distintivo e riconoscibile. Scegliere un capo firmato Emporio Armani significa indossare un pezzo di storia della moda italiana, un simbolo di classe ed eccellenza.</p>
 <p>&nbsp;</p>
+
+
+<h2><span class="ez-toc-section" id="Domande_frequenti_su_Emporio_Armani"></span>Domande frequenti su Emporio Armani<span class="ez-toc-section-end"></span></h2>
+<h3>Che cosa rappresenta l'aquila del logo Emporio Armani?</h3>
+<p>L'aquila è il simbolo che identifica la linea Emporio Armani. Serve a distinguerla dal marchio Giorgio Armani, che usa il solo nome, e da Armani Exchange, che usa la sigla A|X.</p>
+<h3>Emporio Armani e Giorgio Armani sono la stessa cosa?</h3>
+<p>Fanno parte dello stesso gruppo e sono disegnati dallo stesso stilista, ma sono linee diverse: Giorgio Armani è la linea di lusso, Emporio Armani è quella più giovane e accessibile. Il confronto completo è nell'articolo <a href="{{ '/magazine/quali-sono-le-linee-di-abbigliamento-di-giorgio-armani/' | relative_url }}">Quali sono le linee di abbigliamento di Giorgio Armani</a>.</p>
+<h3>Chi ha fondato Emporio Armani?</h3>
+<p>Emporio Armani è stata creata da Giorgio Armani negli anni Ottanta, come linea pensata per un pubblico più giovane e per budget più ampi. Il marchio Giorgio Armani era nato nel 1975, insieme a Sergio Galeotti.</p>
+<h3>Che differenza c'è tra Emporio Armani e Armani Exchange?</h3>
+<p>Emporio Armani è una linea di fascia più alta, con tagli più curati. Armani Exchange è la linea urbana e casual, più economica, con jeans, t-shirt e capi di tutti i giorni.</p>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Che cosa rappresenta l'aquila del logo Emporio Armani?","acceptedAnswer":{"@type":"Answer","text":"L'aquila è il simbolo che identifica la linea Emporio Armani e la distingue da Giorgio Armani e da Armani Exchange (A|X)."}},{"@type":"Question","name":"Emporio Armani e Giorgio Armani sono la stessa cosa?","acceptedAnswer":{"@type":"Answer","text":"Sono dello stesso gruppo e dello stesso stilista, ma sono linee diverse: Giorgio Armani è la linea di lusso, Emporio Armani è più giovane e accessibile."}},{"@type":"Question","name":"Chi ha fondato Emporio Armani?","acceptedAnswer":{"@type":"Answer","text":"Emporio Armani è stata creata da Giorgio Armani negli anni Ottanta come linea per un pubblico più giovane."}}]}</script>

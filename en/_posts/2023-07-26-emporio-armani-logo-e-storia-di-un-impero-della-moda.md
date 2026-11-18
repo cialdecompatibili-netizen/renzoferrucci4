@@ -11,7 +11,7 @@ categories:
 ref: emporio-armani-logo-e-storia-di-un-impero-della-moda
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1hzpabz
 permalink: /en/magazine/emporio-armani-logo-and-history-of-a-fashion-empire/
 redirect_from:

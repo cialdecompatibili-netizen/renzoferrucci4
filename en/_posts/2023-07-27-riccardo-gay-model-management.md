@@ -11,7 +11,7 @@ categories:
 ref: riccardo-gay-model-management
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1cubfor
 permalink: /en/magazine/riccardo-gay-model-management/
 redirect_from:

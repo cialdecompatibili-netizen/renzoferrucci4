@@ -59,3 +59,15 @@ categories:
 <p>Non solo lingerie: la Kroes ha posato per numerosissimi magazine di moda come <em>Vogue</em> e <em>Harper&#8217;s Bazaar</em>; è stata testimonial di brand di prestigio come <strong>Calvin Klein</strong> e <strong>Blumarine</strong>. Il patrimonio della supermodella è di circa <strong>8 milioni di dollari</strong>.</p>
 <div class="video-shortcode"><iframe title="Supermodel Doutzen Kroes" width="1170" height="658" src="https://www.youtube.com/embed/k-yFjiQFkpA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>&nbsp;</p>
+
+
+<h2><span class="ez-toc-section" id="Domande_frequenti_sulle_modelle_piu_pagate"></span>Domande frequenti sulle modelle più pagate<span class="ez-toc-section-end"></span></h2>
+<h3>Qual è la modella più pagata al mondo?</h3>
+<p>Nella classifica di questo articolo al primo posto c'è Kendall Jenner. Le classifiche si basano su stime degli incassi di un anno e cambiano da un'edizione all'altra, quindi il primo posto può passare ad altre modelle.</p>
+<h3>Guadagni annuali e patrimonio sono la stessa cosa?</h3>
+<p>No. Le classifiche delle modelle più pagate misurano quanto una modella incassa in un anno tra ingaggi, campagne pubblicitarie e attività proprie. Il patrimonio, quello che si cerca per Gigi Hadid, Karlie Kloss e le altre, è un'altra cosa: è il totale accumulato negli anni, al netto di spese e tasse, ed è sempre una stima.</p>
+<h3>Perché alcune modelle guadagnano molto più di altre?</h3>
+<p>Oltre alle sfilate contano i contratti con i grandi marchi, le collaborazioni, i profili social e le attività imprenditoriali, come linee di prodotti proprie. Le modelle in cima alla classifica combinano quasi sempre più di queste fonti.</p>
+<h3>Quali sono le altre modelle della classifica?</h3>
+<p>Le trovi nell'elenco qui sopra, ognuna con la sua scheda: da Kendall Jenner a Karlie Kloss, Chrissy Teigen, Rosie Huntington-Whiteley, Gisele Bündchen, Cara Delevingne e Gigi Hadid.</p>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qual è la modella più pagata al mondo?","acceptedAnswer":{"@type":"Answer","text":"Nella classifica di questo articolo al primo posto c'è Kendall Jenner. Le classifiche si basano su stime degli incassi di un anno e cambiano da un'edizione all'altra."}},{"@type":"Question","name":"Guadagni annuali e patrimonio sono la stessa cosa?","acceptedAnswer":{"@type":"Answer","text":"No. Le classifiche misurano gli incassi di un anno; il patrimonio è il totale accumulato negli anni, al netto di spese e tasse, ed è sempre una stima."}},{"@type":"Question","name":"Perché alcune modelle guadagnano molto più di altre?","acceptedAnswer":{"@type":"Answer","text":"Contano i contratti con i grandi marchi, le collaborazioni, i social e le attività imprenditoriali, oltre alle sfilate."}}]}</script>

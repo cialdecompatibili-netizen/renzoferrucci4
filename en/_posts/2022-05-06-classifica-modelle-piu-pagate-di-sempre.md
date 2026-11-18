@@ -13,7 +13,7 @@ categories:
 ref: classifica-modelle-piu-pagate-di-sempre
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: klinh6
 permalink: /en/rankings/models/ranking-the-highest-paid-models-of-all-time/
 redirect_from:

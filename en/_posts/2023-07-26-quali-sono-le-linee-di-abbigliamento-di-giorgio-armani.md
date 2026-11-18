@@ -11,7 +11,7 @@ categories:
 ref: quali-sono-le-linee-di-abbigliamento-di-giorgio-armani
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 482iyh
 permalink: /en/magazine/what-are-giorgio-armani-s-clothing-lines/
 redirect_from:

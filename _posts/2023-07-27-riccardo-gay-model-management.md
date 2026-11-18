@@ -29,3 +29,15 @@ categories:
 </div>
 </div>
 </div>
+
+
+<h2><span class="ez-toc-section" id="Domande_frequenti_su_Riccardo_Gay_Model_Management"></span>Domande frequenti su Riccardo Gay Model Management<span class="ez-toc-section-end"></span></h2>
+<h3>Chi è Riccardo Gay?</h3>
+<p>Riccardo Gay è l'imprenditore milanese che ha fondato l'agenzia Riccardo Gay Model Management, attiva dagli anni Sessanta nella selezione e nel lancio di modelle e modelli. "Gay" è il suo cognome e non ha nulla a che vedere con l'orientamento: è semplicemente il nome dell'agenzia.</p>
+<h3>Di cosa si occupa l'agenzia?</h3>
+<p>Oltre a rappresentare modelle e modelli, organizza eventi, concorsi di bellezza, produzioni fotografiche, calendari e sponsorizzazioni, e sviluppa prodotti in collaborazione con altre aziende.</p>
+<h3>Come si diventa modella o modello con un'agenzia?</h3>
+<p>I requisiti cambiano da agenzia ad agenzia. In generale si inviano foto naturali, senza trucco e con luce chiara (primo piano e figura intera), insieme a età, altezza e misure, usando i canali ufficiali dell'agenzia. Diffida di chi chiede soldi per entrare: le agenzie serie guadagnano una commissione sui lavori, non sulle candidature.</p>
+<h3>Quali concorsi sono collegati all'agenzia?</h3>
+<p>Nell'articolo trovi i concorsi Elite Model Look Italia e Miss Italia, tra le iniziative per scoprire nuovi volti.</p>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Chi è Riccardo Gay?","acceptedAnswer":{"@type":"Answer","text":"Riccardo Gay è l'imprenditore milanese che ha fondato l'agenzia Riccardo Gay Model Management, attiva dagli anni Sessanta nella selezione e nel lancio di modelle e modelli."}},{"@type":"Question","name":"Di cosa si occupa Riccardo Gay Model Management?","acceptedAnswer":{"@type":"Answer","text":"Rappresenta modelle e modelli, organizza eventi, concorsi di bellezza, produzioni fotografiche, calendari e sponsorizzazioni."}},{"@type":"Question","name":"Come si diventa modella o modello con un'agenzia?","acceptedAnswer":{"@type":"Answer","text":"Si inviano foto naturali (primo piano e figura intera), età, altezza e misure tramite i canali ufficiali dell'agenzia. Le agenzie serie non chiedono denaro per le candidature."}}]}</script>
