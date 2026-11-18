@@ -28,6 +28,5 @@ Journal:
     url: /en/category/?cat=riviste-di-moda
   - title: "Trends"
     url: /en/category/?cat=trend
-  - divider: true
   - title: "All articles"
     url: /en/blog/

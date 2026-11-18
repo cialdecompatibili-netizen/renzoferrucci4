@@ -63,6 +63,5 @@ Journal:
     url: /categoria/?cat=riviste-di-moda
   - title: "Trend"
     url: /categoria/?cat=trend
-  - divider: true
   - title: "Tutti gli articoli"
     url: /blog/
