@@ -35,7 +35,6 @@
 Negozio:
   - title: "Tutti i prodotti"
     url: /negozio/
-  - divider: true
   - title: "Donna"
     url: /negozio/categoria/donna/
   - title: "Uomo"
