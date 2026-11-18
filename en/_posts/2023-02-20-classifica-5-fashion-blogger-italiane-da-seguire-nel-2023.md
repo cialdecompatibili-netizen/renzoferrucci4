@@ -12,13 +12,14 @@ categories:
 ref: classifica-5-fashion-blogger-italiane-da-seguire-nel-2023
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1p9eqav
 permalink: /en/rankings/ranking-the-5-italian-fashion-bloggers-to-follow-in-2023/
 redirect_from:
   - /en/en/classifiche/classifica-5-fashion-blogger-italiane-da-seguire-nel-2023/
   - /en/classifiche/classifica-5-fashion-blogger-italiane-da-seguire-nel-2023/
 ---
+<p><strong>Update:</strong> the <a href="{{ '/en/rankings/ranking-the-5-italian-fashion-bloggers-to-follow-in-2026/' | relative_url }}">2026 ranking of the 5 Italian fashion bloggers to follow</a> is out.</p>
 <p>If you are looking for fashion inspiration, I present to you some of the most followed and influential Italian fashion bloggers of 2023. Fashion is a constantly evolving sector and Italian fashion bloggers have been able to gain an important position in the fashion world thanks to their ability to influence consumer choices. Let's discover together the bloggers who are trending in 2023.</p>
 <ol>
 <li>
