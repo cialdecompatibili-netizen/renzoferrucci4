@@ -13,7 +13,7 @@ categories:
 ref: sergio-galeotti
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1peeg0f
 permalink: /en/designers/stilisti-italiani/sergio-galeotti/
 redirect_from:

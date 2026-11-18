@@ -12,7 +12,7 @@ categories:
 ref: le-10-migliori-marche-di-moda-italiane
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 2090wy
 permalink: /en/fashion-houses/rankings/the-10-best-italian-fashion-brands/
 redirect_from:
