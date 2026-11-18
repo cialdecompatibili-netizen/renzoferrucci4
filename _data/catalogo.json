@@ -360,13 +360,13 @@
       }
     },
     {
-      "nome": "Zaini uomo",
-      "id": "zaini-uomo",
+      "nome": "Zaini in pelle uomo",
+      "id": "zaini-in-pelle-uomo",
       "icona": "",
       "genitore": "borse-uomo",
       "tr": {
         "en": {
-          "nome": "Backpacks men"
+          "nome": "Leather backpacks men"
         }
       }
     },
@@ -886,7 +886,7 @@
       "tipo": "fisico",
       "id": "zaino-capitolino-in-pelle",
       "nome": "Zaino Capitolino in pelle",
-      "categoria": "zaini-uomo",
+      "categoria": "zaini-in-pelle-uomo",
       "prezzo_centesimi": 48000,
       "descrizione": "Pelle pieno fiore, all'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare., tracolla regolabile.",
       "descrizione_completa": "Pelle pieno fiore\nAll'interno: 1 interfaccia USB, 1 scomparto per laptop, 1 tasca per portafoglio, 1 tasca per cellulare.\nTracolla regolabile\nPuò contenere un laptop da 16\".\n",
