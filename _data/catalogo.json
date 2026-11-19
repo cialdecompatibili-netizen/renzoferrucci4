@@ -402,6 +402,17 @@
           "nome": "Work bags women"
         }
       }
+    },
+    {
+      "nome": "Valigeria uomo",
+      "id": "valigeria-uomo",
+      "icona": "",
+      "genitore": "viaggio-uomo",
+      "tr": {
+        "en": {
+          "nome": "Luggage men"
+        }
+      }
     }
   ],
   "prodotti": [
