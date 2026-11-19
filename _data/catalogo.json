@@ -1499,6 +1499,24 @@
           "descrizione_completa": "Rome knows the value of time. Like the great European ateliers, which made leather a language, we choose a single hide and let it speak: lively grain, the scent of tanning, clean cuts, patient stitching. A bag to live with, not to show off: roomy, comfortable, always ready to follow you wherever you want to go.\n\nFeatures and measurements\nMaterial: 100% genuine cowhide leather\nClosure: zip closure\nHandle: removable\nCarry: on the shoulder or by hand\nSizes: Small, Medium and Large\nMini - 26 x 9 x 17 cm / 10.2 x 3.5 x 6.7 inches"
         }
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "borsone-esquilino-in-pelle",
+      "nome": "Borsone Esquilino in pelle",
+      "categoria": "valigeria-uomo",
+      "prezzo_centesimi": 48000,
+      "descrizione": "Ogni viaggio lascia un segno sulla pelle, e ogni segno è un ricordo: un borsone che racconta i luoghi da cui è passato.",
+      "descrizione_completa": "Roma conosce il valore del tempo. Poche linee, un pellame scelto con cura, cuciture che resistono al tempo: il resto lo scrive l'uso quotidiano. Ogni viaggio lascia un segno sulla pelle, e ogni segno è un ricordo: un borsone che racconta i luoghi da cui è passato.\n\nCaratteristiche e misure\nTasca interna con cerniera, tasca per cellulare\nPelle pieno fiore\nGrande capacità, può contenere iPhone 12 Pro Plus, iPad Pro da 12,9'', iPad Pro da 11'', laptop da 15'', trucchi ecc.\nFilo delicato fatto a mano\nTracolla rimovibile e regolabile\nFerramenta in ottone",
+      "immagine": "assets/images/prodotti/borsone-esquilino-in-pelle.webp?v=1",
+      "icona": "",
+      "visibile": true,
+      "collezione": "",
+      "fonte": {
+        "url": "https://www.etsy.com/it/listing/841622531/borsa-da-viaggio-personalizzata-per-uomo",
+        "acquisto": 158.42,
+        "foto": "originale"
+      }
     }
   ]
 }
