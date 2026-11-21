@@ -43,7 +43,8 @@
 {%- endif -%}
 {%- include blog-cat-pills.html attiva=include.cat -%}
 {%- assign az = false -%}
-{%- if include.cat and include.cat != 'news' -%}
+{%- assign posts_l = posts_l | sort: 'date' | reverse -%}
+{%- if false -%}
 {%- assign az = true -%}
 {%- assign posts_l = posts_l | sort_natural: 'title' -%}
 {%- assign az_all = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split: ',' -%}
