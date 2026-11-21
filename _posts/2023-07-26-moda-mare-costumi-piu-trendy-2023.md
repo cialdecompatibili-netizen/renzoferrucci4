@@ -5,6 +5,7 @@ title: "Moda mare: i costumi più trendy del 2023"
 date: 2023-07-26
 excerpt: "Moda mare: i costumi più trendy del 2023 L’estate è alle porte e con essa la voglia di sole, mare e relax. Ma prima di tuffarti nell’acqua cristallina, devi pensare a cosa indossare per sentirti bella e a tuo agio. La moda mare del 2023 ti offre una vasta scelta di costumi da bagno, dai"
 seo_title: "Moda mare: i costumi più trendy del 2023"
+seo_description: "Moda mare 2023: i costumi più trendy dell'estate per sentirsi belle e a proprio agio al mare."
 header:
   teaser: /assets/posts/moda-mare-costumi-piu-trendy-2023/summer-fashion.jpeg
 categories:

@@ -4,6 +4,7 @@ title: "Anna Wintour movies and TV shows"
 date: 2023-04-02
 excerpt: "Anna Wintour is a British journalist and publisher with US citizenship, director of the monthly Vogue America since 1988, considered the most authoritative fashion magazine in the world. Her influence also extends to cinema and television, where she has been the protagonist or inspiration for several"
 seo_title: "Anna Wintour movies and TV shows"
+seo_description: "Anna Wintour movies and TV shows: from leading Vogue America since 1988 to her appearances in film and television."
 header:
   teaser: /assets/posts/film-e-programmi-tv-di-anna-wintour/anna-diavolo.jpg
 categories:

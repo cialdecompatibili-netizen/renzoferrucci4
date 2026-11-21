@@ -4,6 +4,7 @@ title: "What are Walter Albini's clothing lines?"
 date: 2025-08-06
 excerpt: "Walter Albini marked the birth of Italian ready-to-wear with iconic lines such as “Unimax” and the Anagrafe collection, redefining total style and inspiring generations of designers."
 seo_title: "What are Walter Albini's clothing lines?"
+seo_description: "Walter Albini's clothing lines: from Unimax to the Anagrafe collection, the birth of Italian ready-to-wear and total style."
 header:
   teaser: /assets/posts/quali-sono-le-linee-di-abbigliamento-di-walter-albini-2/walter.jpg
 categories:

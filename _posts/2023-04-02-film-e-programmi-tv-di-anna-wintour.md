@@ -5,6 +5,7 @@ title: "Film e programmi TV di Anna Wintour"
 date: 2023-04-02
 excerpt: "Anna Wintour è una giornalista e editrice britannica con cittadinanza statunitense, dal 1988 direttrice del mensile Vogue America, considerata la più autorevole rivista di moda al mondo. La sua influenza si estende anche al cinema e alla televisione, dove è stata protagonista o ispiratrice di divers"
 seo_title: "Film e programmi TV di Anna Wintour"
+seo_description: "Film e programmi TV di Anna Wintour: dalla direzione di Vogue America dal 1988 alle sue apparizioni tra cinema e televisione."
 header:
   teaser: /assets/posts/film-e-programmi-tv-di-anna-wintour/anna-diavolo.jpg
 categories:

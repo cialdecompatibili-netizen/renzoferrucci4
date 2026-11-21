@@ -4,6 +4,7 @@ title: "The 10 best Italian fashion brands"
 date: 2023-03-18
 excerpt: "Italian fashion is known throughout the world for its elegance, its unique style and its high quality. The Italian fashion industry is one of the most important and influential in the world, thanks to its ability to create trends that last over time and to transform clothes into real"
 seo_title: "The 10 best Italian fashion brands"
+seo_description: "The 10 best Italian fashion brands: elegance, unique style and high quality from the most important and influential names of Italian fashion."
 header:
   teaser: /assets/posts/le-10-migliori-marche-di-moda-italiane/italian-runway.jpg
 categories:

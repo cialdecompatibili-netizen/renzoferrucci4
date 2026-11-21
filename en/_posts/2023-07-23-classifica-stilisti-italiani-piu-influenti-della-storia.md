@@ -4,6 +4,7 @@ title: "Ranking: most influential Italian designers in history"
 date: 2023-07-23
 excerpt: "Italy is world famous for its art, its culture and its fashion. Many Italian designers have left their mark in the history of the fashion system, creating iconic collections and innovating the style and taste of dressing. In this article we want to present you a ranking of Italian stylists"
 seo_title: "Ranking: most influential Italian designers in history"
+seo_description: "Ranking of the most influential Italian designers in history: who left a mark on the fashion system with iconic collections and new style."
 header:
   teaser: /assets/posts/classifica-stilisti-italiani-piu-influenti-della-storia/stilisi-italiani-piu-influenti.jpg
 categories:

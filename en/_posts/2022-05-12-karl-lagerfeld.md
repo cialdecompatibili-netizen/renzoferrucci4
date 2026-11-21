@@ -4,6 +4,7 @@ title: "Karl Lagerfeld"
 date: 2022-05-12
 excerpt: "\"I remember a designer who claimed that only intelligent women wore her clothes. Of course she failed.\" \"L is for LSD. Not the psychedelic substance, but his publishing house: Lagerfeld, Steidl, Druckerei Verlag. He also found time to be an editor. And he enjoyed pointing out"
 seo_title: "Karl Lagerfeld"
+seo_description: "Karl Lagerfeld, designer, photographer and publisher: his career, his most famous quotes and the unmistakable style behind Chanel and Fendi."
 header:
   teaser: /assets/posts/karl-lagerfeld/Karl-Lagerfeld-e1652382866442.jpg
 categories:

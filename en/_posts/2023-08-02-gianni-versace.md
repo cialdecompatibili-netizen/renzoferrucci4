@@ -4,6 +4,7 @@ title: "Gianni Versace"
 date: 2023-08-02
 excerpt: "Gianni Versace was one of the biggest names in Italian fashion in the world, as well as the founder of the Versace fashion house. Considered one of the most innovative designers in the history of fashion, Versace has been able to combine art, culture, music and theater in his creations, giving life to an aesthetic"
 seo_title: "Gianni Versace"
+seo_description: "Gianni Versace, founder of the Versace fashion house: the life and style of one of the most innovative designers in Italian fashion."
 header:
   teaser: /assets/posts/gianni-versace/gianni-e-donatella-versace.jpg
 categories:

@@ -4,6 +4,7 @@ title: "Ranking: Italian fashion bloggers 2023"
 date: 2023-07-27
 excerpt: "Fashion bloggers are true style icons, who share their passions, their outfits and their fashion advice through social networks and their websites. In Italy, there are many fashion bloggers who have stood out for their taste, creativity and"
 seo_title: "Ranking: Italian fashion bloggers 2023"
+seo_description: "Ranking of Italian fashion bloggers in 2023: the style icons who share outfits, passions and fashion advice on social media and websites."
 header:
   teaser: /assets/posts/classifica-fashion-blogger-italiane-2023/fashion-blogger-fumetto.jpeg
 categories:

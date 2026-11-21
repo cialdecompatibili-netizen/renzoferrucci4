@@ -5,6 +5,7 @@ title: "Moda autunno 2023: colori, tessuti e accessori da non perdere"
 date: 2023-10-11
 excerpt: "L’autunno è alle porte e con esso il desiderio di rinnovare il nostro guardaroba con i capi e gli accessori più in voga della stagione. Ma quali sono le tendenze moda dell’autunno 2023 che non possiamo ignorare? Quali colori, tessuti e stili ci faranno sentire al passo con i tempi e con la nostra pe"
 seo_title: "Moda autunno 2023: colori, tessuti e accessori da non perdere"
+seo_description: "Moda autunno 2023: colori, tessuti e accessori da non perdere per rinnovare il guardaroba con le tendenze più in voga della stagione."
 header:
   teaser: /assets/posts/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/autunno-inverno-2023-aticolo.jpeg
 categories:

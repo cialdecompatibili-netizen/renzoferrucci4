@@ -5,6 +5,7 @@ title: "Gianni Versace"
 date: 2023-08-02
 excerpt: "Gianni Versace è stato uno dei più grandi nomi della moda italiana nel mondo, nonché il fondatore della casa di moda Versace. Considerato uno degli stilisti più innovativi nella storia della moda, Versace ha saputo combinare arte, cultura, musica e teatro nelle sue creazioni, dando vita a un’estetic"
 seo_title: "Gianni Versace"
+seo_description: "Gianni Versace, fondatore della casa di moda Versace: vita e stile di uno degli stilisti più innovativi della moda italiana, tra arte e moda."
 header:
   teaser: /assets/posts/gianni-versace/gianni-e-donatella-versace.jpg
 categories:

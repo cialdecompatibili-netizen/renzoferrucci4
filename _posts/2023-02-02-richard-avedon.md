@@ -5,6 +5,7 @@ title: "Richard Avedon"
 date: 2023-02-02
 excerpt: "Richard Avedon è stato uno dei più grandi fotografi di moda del XX secolo. Nato a New York nel 1923, Avedon ha iniziato la sua carriera fotografica alla fine degli anni ’40, diventando presto uno dei fotografi più richiesti della sua generazione. La sua abilità nella fotografia di moda ha rivoluzion"
 seo_title: "Richard Avedon"
+seo_description: "Richard Avedon, nato a New York nel 1923: la storia di uno dei più grandi fotografi di moda del XX secolo, dagli esordi di fine anni Quaranta."
 header:
   teaser: /assets/posts/richard-avedon/RichardAvedon.jpg
 categories:

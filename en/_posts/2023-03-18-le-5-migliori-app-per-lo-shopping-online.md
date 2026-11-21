@@ -4,6 +4,7 @@ title: "The 5 best apps for online shopping"
 date: 2023-03-18
 excerpt: "The world of online shopping is constantly evolving and online shopping apps have become increasingly popular. With the rise of smartphone usage, online shopping apps have become an essential tool for modern shoppers. In this article, we will explore the miles"
 seo_title: "The 5 best apps for online shopping"
+seo_description: "The 5 best apps for online shopping: what they offer and which one to choose to shop directly from your smartphone."
 header:
   teaser: /assets/posts/le-5-migliori-app-per-lo-shopping-online/online-shopping.jpg
 categories:

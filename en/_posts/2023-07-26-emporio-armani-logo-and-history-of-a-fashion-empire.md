@@ -4,6 +4,7 @@ title: "Emporio Armani: logo and history of a fashion empire"
 date: 2023-07-26
 excerpt: "Milan, late Seventies. The kingdom of fashion crowns its king: King Giorgio, as he will be nicknamed abroad. With Giorgio Armani, Milan quickly becomes the world capital of fashion, and Made in Italy is no longer just a label: it is now synonymous with elegance, refinement and class. How did this ic"
 seo_title: "Emporio Armani: logo and history of a fashion empire"
+seo_description: "Emporio Armani: logo and history of a fashion empire, from Milan in the late Seventies to Giorgio Armani's rise as king of Made in Italy."
 header:
   teaser: /assets/posts/emporio-armani-logo-and-history-of-a-fashion-empire/Emporio-Armani-logo.png
 categories:

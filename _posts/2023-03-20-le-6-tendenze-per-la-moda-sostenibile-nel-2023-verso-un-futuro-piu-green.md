@@ -5,6 +5,7 @@ title: "Le 6 tendenze per la moda sostenibile nel 2023: verso un futuro più gre
 date: 2023-03-20
 excerpt: "Negli ultimi anni, la moda sostenibile è diventata sempre più importante per i consumatori e l’industria dell’abbigliamento. Con una maggiore attenzione all’impatto ambientale e alla responsabilità sociale, sempre più brand stanno cercando di adottare pratiche sostenibili e di ridurre l’impatto ambi"
 seo_title: "Le 6 tendenze per la moda sostenibile nel 2023: verso un futuro più green"
+seo_description: "Le 6 tendenze della moda sostenibile nel 2023: materiali, produzione responsabile e scelte più green per chi compra con attenzione all'ambiente."
 header:
   teaser: /assets/posts/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/moda-sostenibile.jpg
 categories:

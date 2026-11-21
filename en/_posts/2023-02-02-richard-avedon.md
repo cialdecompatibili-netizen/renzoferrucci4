@@ -4,6 +4,7 @@ title: "Richard Avedon"
 date: 2023-02-02
 excerpt: "Richard Avedon was one of the greatest fashion photographers of the 20th century. Born in New York in 1923, Avedon began his photographic career in the late 1940s, quickly becoming one of the most sought-after photographers of his generation. His skill in fashion photography has revolutionized"
 seo_title: "Richard Avedon"
+seo_description: "Richard Avedon, born in New York in 1923: the story of one of the greatest fashion photographers of the 20th century, from the late 1940s onward."
 header:
   teaser: /assets/posts/richard-avedon/RichardAvedon.jpg
 categories:

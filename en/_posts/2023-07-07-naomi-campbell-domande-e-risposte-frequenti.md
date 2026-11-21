@@ -4,6 +4,7 @@ title: "Naomi Campbell: Frequently asked questions and answers"
 date: 2023-07-07
 excerpt: "Naomi Campbell is one of the most famous and influential supermodels in the history of fashion. Her beauty, her charisma and her personality have made her a true icon, admired and followed by millions of people around the world. But how much do you really know Naomi Campbell? In this article, I propose"
 seo_title: "Naomi Campbell: Frequently asked questions and answers"
+seo_description: "Naomi Campbell: frequently asked questions about one of the most famous and influential supermodels in the history of fashion."
 header:
   teaser: /assets/posts/naomi-campbell-domande-e-risposte-frequenti/depositphotos_384058104-stock-photo-cannes-france-may-naomi-campbell.webp
 categories:

@@ -4,6 +4,7 @@ title: "The world of Chanel: from its origins to the latest trends"
 date: 2023-03-20
 excerpt: "Chanel is one of the most iconic fashion houses in the world, known for its unique and elegant style that revolutionized the world of fashion. Founded in Paris in 1910 by French designer Gabrielle “Coco” Chanel, the company has become synonymous with high fashion, perfumes and luxury accessories. The orig"
 seo_title: "The world of Chanel: from its origins to the latest trends"
+seo_description: "The world of Chanel: from its founding in Paris in 1910 by Gabrielle Coco Chanel to the latest trends of one of fashion's most iconic houses."
 header:
   teaser: /assets/posts/il-mondo-di-chanel-dalle-origini-alle-ultime-tendenze/coco-chanel.jpg
 categories:

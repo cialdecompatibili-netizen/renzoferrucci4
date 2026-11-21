@@ -5,6 +5,7 @@ title: "Classifica: fashion blogger più influenti del 2023"
 date: 2023-04-02
 excerpt: "Chi sono i fashion blogger più seguiti e influenti del 2023? Scopriamo insieme la nostra top 10. Il mondo della moda è in continua evoluzione, e i fashion blogger sono diventati dei veri e propri opinion leader che dettano tendenze e stili. Ma chi sono i fashion blogger più seguiti e influenti del 2"
 seo_title: "Classifica: fashion blogger più influenti del 2023"
+seo_description: "I fashion blogger più seguiti e influenti del 2023: la nostra top 10 di chi fa opinione e detta tendenze nel mondo della moda."
 header:
   teaser: /assets/posts/classifica-fashion-blogger-piu-influenti-del-2023/fashion-influencer.jpg
 categories:

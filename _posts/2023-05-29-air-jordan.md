@@ -5,6 +5,7 @@ title: "Air Jordan"
 date: 2023-05-29
 excerpt: "Le Air Jordan sono una linea di calzature sportive create nel 1984 dalla Nike per il campione di basket Michael Jordan, considerato uno dei migliori giocatori di tutti i tempi. Il nome deriva dalle sue doti atletiche e dal suo gioco aereo, che lo hanno reso famoso in tutto il mondo. Le Air Jordan no"
 seo_title: "Air Jordan"
+seo_description: "Air Jordan: la storia della linea di scarpe sportive creata da Nike nel 1984 per Michael Jordan, da icona del basket a simbolo di stile."
 header:
   teaser: /assets/posts/air-jordan/jordan.jpg
 categories:

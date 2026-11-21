@@ -4,6 +4,7 @@ title: "Beachwear: the trendiest swimsuits of 2023"
 date: 2023-07-26
 excerpt: "Beach fashion: the trendiest swimsuits of 2023 Summer is upon us and with it the desire for sun, sea and relaxation. But before diving into the crystal clear water, you need to think about what to wear to feel beautiful and comfortable. The swimwear fashion of 2023 offers you a wide choice of swimsuits, come on"
 seo_title: "Beachwear: the trendiest swimsuits of 2023"
+seo_description: "Beachwear 2023: the trendiest swimsuits of the summer to feel beautiful and comfortable by the sea."
 header:
   teaser: /assets/posts/moda-mare-costumi-piu-trendy-2023/summer-fashion.jpeg
 categories:

@@ -4,6 +4,7 @@ title: "Air Jordan"
 date: 2023-05-29
 excerpt: "Air Jordans are a line of sports shoes created in 1984 by Nike for basketball champion Michael Jordan, considered one of the best players of all time. The name derives from his athletic skills and his aerial game, which made him famous throughout the world. Air Jordans are not"
 seo_title: "Air Jordan"
+seo_description: "Air Jordan: the story of the sports shoe line created by Nike in 1984 for basketball champion Michael Jordan, from court icon to style symbol."
 header:
   teaser: /assets/posts/air-jordan/jordan.jpg
 categories:

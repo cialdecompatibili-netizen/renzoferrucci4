@@ -4,6 +4,7 @@ title: "Autumn 2023 fashion: colours, fabrics and accessories not to be missed"
 date: 2023-10-11
 excerpt: "Autumn is upon us and with it the desire to renew our wardrobe with the most popular garments and accessories of the season. But what are the autumn 2023 fashion trends that we cannot ignore? Which colours, fabrics and styles will make us feel in step with the times and with our pe"
 seo_title: "Autumn 2023 fashion: colours, fabrics and accessories not to be missed"
+seo_description: "Autumn 2023 fashion: the colours, fabrics and accessories not to be missed to refresh your wardrobe this season."
 header:
   teaser: /assets/posts/moda-autunno-2023-colori-tessuti-e-accessori-da-non-perdere/autunno-inverno-2023-aticolo.jpeg
 categories:

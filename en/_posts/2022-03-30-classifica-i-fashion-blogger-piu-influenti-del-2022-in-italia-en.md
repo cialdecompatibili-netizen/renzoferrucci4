@@ -4,6 +4,7 @@ title: "Ranking: the most influential fashion bloggers of 2022 in Italy EN"
 date: 2022-03-30
 excerpt: "EN Being a fashion blogger is not a hobby, but a real job! We offer you a list of people who have turned their passion into a profession. Let's start with the most influential figures in the world of high fashion and present them one at a time in order of popularity. Chiara Fer"
 seo_title: "Ranking: the most influential fashion bloggers of 2022 in Italy EN"
+seo_description: "Italian fashion bloggers of 2022: who are the most influential, from high fashion to social media, and how they built a profession from passion."
 header:
   teaser: /assets/posts/classifica-i-fashion-blogger-piu-influenti-del-2022-in-italia-en/Chiara-Ferragni-1.jpg
 categories:

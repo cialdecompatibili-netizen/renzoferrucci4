@@ -4,6 +4,7 @@ title: "Walter Albini"
 date: 2023-05-09
 excerpt: "Walter Albini was one of the greatest Italian stylists, considered the pioneer of ready-to-wear and the total look. His vision revolutionized the relationship between fashion and industry, giving life to Made in Italy and the figure of the stylist as creator of style and image. 40 years after his s"
 seo_title: "Walter Albini"
+seo_description: "Walter Albini, pioneer of Italian ready-to-wear and the total look: his vision, Made in Italy and the bond between fashion and industry."
 header:
   teaser: /assets/posts/walter-albini/walter-albini-chi-era-3.jpg
 categories:

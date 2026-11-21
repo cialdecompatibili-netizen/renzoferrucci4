@@ -4,6 +4,7 @@ title: "What are the clothing lines of Giorgio Armani"
 date: 2023-07-26
 excerpt: "Giorgio Armani is one of the most famous and prestigious names in the world of fashion. His elegant and refined style has won over millions of customers around the world, including celebrities, politicians and influential personalities. But what are the clothing lines of Giorgio Armani? What are the"
 seo_title: "What are the clothing lines of Giorgio Armani"
+seo_description: "The clothing lines of Giorgio Armani: an overview of the lines of one of the most famous and prestigious names in fashion."
 header:
   teaser: /assets/posts/what-are-the-clothing-lines-of-giorgio-armani/Gli-esordi-di-Giorgio-Armani.jpg
 categories:

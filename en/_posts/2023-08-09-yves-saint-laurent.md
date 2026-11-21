@@ -4,6 +4,7 @@ title: "Yves Saint Laurent"
 date: 2023-08-09
 excerpt: "Yves Saint Laurent was one of the greatest and most influential designers of the 20th century, capable of transforming fashion into art and giving women new freedom and confidence through his clothes. Born in Algeria in 1936, he moved to Paris at 18 to follow his passion for"
 seo_title: "Yves Saint Laurent"
+seo_description: "Yves Saint Laurent: life and career of the designer who turned fashion into art and gave women new freedom and confidence."
 header:
   teaser: /assets/posts/yves-saint-laurent/yves.jpg
 categories:

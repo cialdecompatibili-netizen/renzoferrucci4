@@ -5,6 +5,7 @@ title: "Classifica: fashion blogger italiane 2023"
 date: 2023-07-27
 excerpt: "Le fashion blogger sono delle vere e proprie icone di stile, che condividono le loro passioni, i loro outfit e i loro consigli di moda attraverso i social network e i loro siti web. In Italia, ci sono molte fashion blogger che si sono fatte notare per il loro gusto, la loro creatività e la"
 seo_title: "Classifica: fashion blogger italiane 2023"
+seo_description: "Classifica delle fashion blogger italiane del 2023: le icone di stile che condividono outfit, passioni e consigli di moda su social e siti web."
 header:
   teaser: /assets/posts/classifica-fashion-blogger-italiane-2023/fashion-blogger-fumetto.jpeg
 categories:

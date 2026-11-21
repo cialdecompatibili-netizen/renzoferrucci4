@@ -4,6 +4,7 @@ title: "The 6 trends for sustainable fashion in 2023: towards a greener future"
 date: 2023-03-20
 excerpt: "In recent years, sustainable fashion has become increasingly important for consumers and the clothing industry. With a greater focus on environmental impact and social responsibility, more and more brands are looking to adopt sustainable practices and reduce environmental impacts."
 seo_title: "The 6 trends for sustainable fashion in 2023: towards a greener future"
+seo_description: "The 6 trends for sustainable fashion in 2023: materials, responsible production and greener choices for conscious consumers."
 header:
   teaser: /assets/posts/le-6-tendenze-per-la-moda-sostenibile-nel-2023-verso-un-futuro-piu-green/moda-sostenibile.jpg
 categories:

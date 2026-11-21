@@ -4,6 +4,7 @@ title: "Riccardo Gay Model Management"
 date: 2023-07-27
 excerpt: "The story of Riccardo Gay Model Management Riccardo Gay Model Management was born in the 1960s in Milan, thanks to Riccardo Gay, a visionary entrepreneur who understood the potential of Italian models on the global scene. Riccardo Gay started his business by selecting and training gi"
 seo_title: "Riccardo Gay Model Management"
+seo_description: "Riccardo Gay Model Management: the story of the agency born in Milan in the 1960s thanks to visionary entrepreneur Riccardo Gay."
 header:
   teaser: /assets/posts/riccardo-gay-model-management/riccardo-gay.jpg
 categories:
