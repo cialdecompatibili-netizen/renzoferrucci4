@@ -424,6 +424,17 @@
           "nome": "Backpacks women"
         }
       }
+    },
+    {
+      "nome": "Zaini uomo",
+      "id": "zaini-uomo",
+      "icona": "",
+      "genitore": "borse-uomo",
+      "tr": {
+        "en": {
+          "nome": "Backpacks men"
+        }
+      }
     }
   ],
   "prodotti": [
