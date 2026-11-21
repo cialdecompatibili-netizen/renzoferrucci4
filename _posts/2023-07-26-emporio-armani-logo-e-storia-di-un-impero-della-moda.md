@@ -4,7 +4,8 @@ layout: single
 title: "Emporio Armani: logo e storia di un impero della moda"
 date: 2023-07-26
 excerpt: "Milano, fine anni Settanta. Il regno della moda incorona il suo re: Re Giorgio, come verrà soprannominato all’estero. Con Giorgio Armani, Milano diventa rapidamente la capitale mondiale della moda, e il Made in Italy non è più solo un’etichetta: è ora sinonimo di eleganza, raffinatezza e classe. Com"
-seo_title: "Emporio Armani: logo e storia di un impero della moda"
+seo_title: "Emporio Armani: logo con aquila, storia e differenze con Giorgio Armani"
+seo_description: "Cosa rappresenta l'aquila del logo Emporio Armani, come nasce la linea e che differenza c'è con Giorgio Armani e Armani Exchange."
 header:
   teaser: /assets/posts/emporio-armani-logo-e-storia-di-un-impero-della-moda/Emporio-Armani-logo.png
 categories:
@@ -35,4 +36,8 @@ categories:
 <p>Emporio Armani è stata creata da Giorgio Armani negli anni Ottanta, come linea pensata per un pubblico più giovane e per budget più ampi. Il marchio Giorgio Armani era nato nel 1975, insieme a Sergio Galeotti.</p>
 <h3>Che differenza c'è tra Emporio Armani e Armani Exchange?</h3>
 <p>Emporio Armani è una linea di fascia più alta, con tagli più curati. Armani Exchange è la linea urbana e casual, più economica, con jeans, t-shirt e capi di tutti i giorni.</p>
+<div class="cta-shop-accessori" style="background:#f6f3ee;border-radius:8px;padding:1.2em 1.4em;margin:2em 0">
+<h3 style="margin-top:0">Dallo stile agli accessori in pelle</h3>
+<p>Se ami l'eleganza italiana, puoi portarla ogni giorno anche con piccoli accessori. Nel nostro <a href="{{ '/negozio/' | relative_url }}">negozio</a> trovi <a href="{{ '/negozio/categoria/portafogli-uomo/' | relative_url }}">portafogli</a>, <a href="{{ '/negozio/categoria/pochette-donna/' | relative_url }}">pochette</a> e <a href="{{ '/negozio/categoria/zaini-in-pelle-uomo/' | relative_url }}">zaini in pelle</a>. Per scegliere bene leggi le guide su <a href="{% post_url 2026-11-21-pelle-vera-come-riconoscerla %}">come riconoscere la pelle vera</a> e su <a href="{% post_url 2026-11-21-lusso-accessibile-qualita-prezzo-pelle %}">come valutare qualità e prezzo</a>.</p>
+</div>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Che cosa rappresenta l'aquila del logo Emporio Armani?","acceptedAnswer":{"@type":"Answer","text":"L'aquila è il simbolo che identifica la linea Emporio Armani e la distingue da Giorgio Armani e da Armani Exchange (A|X)."}},{"@type":"Question","name":"Emporio Armani e Giorgio Armani sono la stessa cosa?","acceptedAnswer":{"@type":"Answer","text":"Sono dello stesso gruppo e dello stesso stilista, ma sono linee diverse: Giorgio Armani è la linea di lusso, Emporio Armani è più giovane e accessibile."}},{"@type":"Question","name":"Chi ha fondato Emporio Armani?","acceptedAnswer":{"@type":"Answer","text":"Emporio Armani è stata creata da Giorgio Armani negli anni Ottanta come linea per un pubblico più giovane."}}]}</script>

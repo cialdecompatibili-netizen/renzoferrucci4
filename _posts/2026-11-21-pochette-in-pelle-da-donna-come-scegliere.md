@@ -38,3 +38,4 @@ categories:
 
 <h2>In sintesi</h2>
 <p>Pelle vera dichiarata, misure adatte a ciò che porti, chiusura sicura e interno curato. Se questi punti tornano, hai trovato una pochette che ti accompagna per anni. Per vedere altri modelli, dai un'occhiata alla categoria <a href="{{ '/negozio/categoria/pochette-donna/' | relative_url }}">pochette da donna</a>.</p>
+<p>Leggi anche: <a href="{% post_url 2026-11-21-pelle-vera-come-riconoscerla %}">come riconoscere la pelle vera</a> e le <a href="{% post_url 2026-11-21-regali-in-pelle-natale-per-lui-per-lei %}">idee regalo in pelle per Natale</a>.</p>

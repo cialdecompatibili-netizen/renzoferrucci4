@@ -37,3 +37,4 @@ categories:
 
 <h2>In sintesi</h2>
 <p>Pelle vera dichiarata, misure adatte a ciò che porti, cuciture curate, spallacci comodi. Se questi quattro punti tornano, hai trovato uno zaino che ti accompagna per anni. Se vuoi vedere altri modelli, dai un'occhiata alla categoria <a href="{{ '/negozio/categoria/zaini-in-pelle-uomo/' | relative_url }}">zaini in pelle da uomo</a>.</p>
+<p>Leggi anche: <a href="{% post_url 2026-11-21-pelle-vera-come-riconoscerla %}">come riconoscere la pelle vera</a> e le <a href="{% post_url 2026-11-21-regali-in-pelle-natale-per-lui-per-lei %}">idee regalo in pelle per Natale</a>.</p>
