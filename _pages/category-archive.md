@@ -5,11 +5,13 @@ permalink: /categorie/
 author_profile: false
 classes: wide
 breadcrumbs: false
+ecommerce: true
 ---
 
 {%- comment -%}
 GUIDA-SVILUPPO: pagina Categorie = una scheda per categoria, prese da _data/categorie.json (admin > Categorie), quindi si aggiornano da sole.
 Il numero articoli conta solo gli articoli in italiano (esclude /en/). Link: /blog/<slug>/. Griglia 3 colonne, 2 sotto 900px, 1 sotto 560px.
+ecommerce: true serve solo a disattivare l'indice automatico (vedi head/custom.html): le card hanno H2 ma non sono titoli di sezione.
 {%- endcomment -%}
 
 <style>
