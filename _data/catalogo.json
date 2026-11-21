@@ -413,6 +413,17 @@
           "nome": "Luggage men"
         }
       }
+    },
+    {
+      "nome": "Zaini donna",
+      "id": "zaini-donna",
+      "icona": "",
+      "genitore": "borse-donna",
+      "tr": {
+        "en": {
+          "nome": "Backpacks women"
+        }
+      }
     }
   ],
   "prodotti": [
