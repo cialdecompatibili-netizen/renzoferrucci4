@@ -21,6 +21,8 @@ categories:
 <p>Uno zaino troppo piccolo ti fa lasciare a casa il laptop. Uno troppo grande, pieno a metà, perde forma. Ragiona su cosa porti ogni giorno: computer, caricabatterie, una giacca leggera, una bottiglia.</p>
 <p>Come riferimento, nel nostro negozio lo <a href="{{ '/negozio/zaino-aurelio-in-pelle/' | relative_url }}">Zaino Aurelio in pelle</a> esiste in due misure: la S, circa 29 x 11 x 42 cm, per la giornata in città, e la L, circa 34 x 15 x 48 cm, più adatta al laptop e al viaggio.</p>
 
+<p>Se invece il laptop è il motivo principale dell'acquisto, guarda lo <a href="{{ '/negozio/zaino-marcello-in-pelle/' | relative_url }}">Zaino Marcello in pelle</a> e lo <a href="{{ '/negozio/zaino-capitolino-in-pelle/' | relative_url }}">Zaino Capitolino in pelle</a>: pelle pieno fiore, scomparto per laptop fino a 16 pollici, interfaccia USB interna e tracolla regolabile. Ne parliamo nella guida allo <a href="{% post_url 2026-11-21-zaino-in-pelle-da-lavoro-per-laptop %}">zaino in pelle da lavoro</a>.</p>
+
 <h2>Cuciture, cerniere, fibbie</h2>
 <p>Sono i punti dove uno zaino cede per primo. Guarda le cuciture agli attacchi degli spallacci: devono essere fitte e regolari. Le cerniere devono scorrere senza forzare. Fibbie e ganci in metallo pesano un po' di più, ma durano di più della plastica.</p>
 
